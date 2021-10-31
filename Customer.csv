@@ -1,0 +1,1001 @@
+CustomerID,Username,Birthday,Sex,Medical_History
+1,cbrauns0,4-21-1995,M,"Multiple gestation following (elective) fetal reduction, unspecified as to episode of care or not applicable"
+2,bmascall1,2-1-2015,M,Wheezing
+3,nbover2,8-12-1973,F,"Chronic or unspecified gastrojejunal ulcer with hemorrhage and perforation, without mention of obstruction"
+4,spowley3,2-4-1950,F,"Burn [any degree] involving 50-59 percent of body surface with third degree burn, 40-49%"
+5,hberens4,9-9-1957,M,Trans-sexualism with asexual history
+6,hpriver5,9-19-2013,M,"Articular cartilage disorder, forearm"
+7,nmatteotti6,12-10-1971,M,Limited mandibular range of motion
+8,lbodley7,12-28-1979,F,"Other specified arthropathy, forearm"
+9,mdurdan8,11-30-1980,M,"Mantle cell lymphoma, lymph nodes of inguinal region and lower limb"
+10,mgreiswood9,1-1-1977,M,Closed fracture of trochanteric section of neck of femur
+11,pcocklanda,6-19-1976,F,Female genital mutilation Type II status
+12,whaspineallb,8-16-2010,F,Anaphylactic reaction due to peanuts
+13,kshanklec,8-21-1981,F,"Osteomalacia, unspecified"
+14,fbeckettd,9-7-1971,M,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level"
+15,idicarloe,10-21-1978,F,"Tuberculosis of knee, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+16,jcrownef,10-11-2012,F,Closed supracondylar fracture of femur
+17,motyg,12-19-1990,M,Open anterior dislocation of elbow
+18,cpointingh,6-6-2007,M,"Counseling for parent-child problem, unspecified"
+19,ksoreyi,11-23-1973,M,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+20,bcashamj,12-8-2005,F,"Antidepressant type abuse, continuous"
+21,wzanuttik,9-5-1957,M,"Dementia, unspecified, with behavioral disturbance"
+22,cpiattil,9-20-1982,M,Misadventure to patient from unspecified contamination
+23,jraincinm,4-17-1971,F,"Other specified hemorrhage in early pregnancy, unspecified as to episode of care or not applicable"
+24,ssharplingn,8-8-2007,M,Erosion of implanted vaginal mesh and other prosthetic materials to surrounding organ or tissue
+25,adamio,2-8-1965,M,"Urinary obstruction, not elsewhere classified"
+26,hwimlettp,2-17-2006,F,Hallux valgus (acquired)
+27,ahandmanq,5-30-1984,M,Postoperative urethral stricture
+28,melsmerer,3-6-2007,M,Other motor vehicle nontraffic accident involving collision with stationary object injuring passenger on motorcycle
+29,lbaudouins,4-24-1989,F,Congenital monoplegia
+30,jmaidstonet,5-3-1959,M,Herpes simplex disciform keratitis
+31,ndollmanu,5-26-1976,M,"Other closed skull fracture with subarachnoid, subdural, and extradural hemorrhage, unspecified state of consciousness"
+32,sscoullerv,4-14-1999,M,"Erythema [first degree] of two or more digits of hand, not including thumb"
+33,jkillickw,8-6-1953,M,Intrinsic (urethral) sphincter deficiency [ISD]
+34,pmurrowx,3-10-1991,F,"Other and unspecified abnormality of organs and soft tissues of pelvis, antepartum condition or complication"
+35,kwybrewy,6-22-1993,M,"Low birth weight status, 1000-1499 grams"
+36,sspencleyz,3-10-1960,F,"Other specified tuberculosis of central nervous system, bacteriological or histological examination not done"
+37,rleveridge10,6-24-1980,M,"Stress incontinence, male"
+38,raizikowitz11,5-17-2004,M,"Acute osteomyelitis, multiple sites"
+39,cmoehler12,4-2-1984,M,"Cardiac complications, not elsewhere classified"
+40,jgrosvenor13,2-25-2008,F,Harada's disease
+41,shutt14,3-1-1951,M,"Erythema [first degree] of chest wall, excluding breast and nipple"
+42,sreuter15,7-9-1990,F,"Femoral hernia without mention of obstruction or gangrene, bilateral,recurrent"
+43,pabbots16,10-19-1950,M,"Tuberculoma of spinal cord, unspecified"
+44,ykeuneke17,1-4-1981,M,"Acquired absence of teeth, unspecified"
+45,aodaly18,3-7-1983,F,"Other and unspecified disc disorder, cervical region"
+46,bbigglestone19,9-16-1997,F,Unspecified tularemia
+47,kfoxley1a,3-5-2002,F,Injury to other specified blood vessels of upper extremity
+48,nibanez1b,7-7-1973,M,"Stiffness of joint, not elsewhere classified, ankle and foot"
+49,mburdis1c,12-16-1961,F,Acute idiopathic pulmonary hemorrhage in infants [AIPHI]
+50,ljowitt1d,2-2-1962,F,Dementia in conditions classified elsewhere with behavioral disturbance
+51,rvinnick1e,1-11-1972,F,Stress fracture of shaft of femur
+52,fredmayne1f,5-23-1975,F,"Body Mass Index 28.0-28.9, adult"
+53,ipaynes1g,9-14-1978,M,"""Light-for-dates"" without mention of fetal malnutrition, 500-749 grams"
+54,kdrei1h,11-14-2008,M,Contact with and (suspected) exposure to mold
+55,lizaac1i,1-23-1960,M,"Shock during or following labor and delivery, delivered, with or without mention of antepartum condition"
+56,mbowerbank1j,7-12-1956,F,Chronic glomerulonephritis with lesion of rapidly progressive glomerulonephritis
+57,rpruvost1k,12-4-2006,F,"Cortex (cerebral) contusion without mention of open intracranial wound, with concussion, unspecified"
+58,flaxon1l,4-26-1952,M,Compensatory emphysema
+59,ljinda1m,12-29-2007,F,Balantidiasis
+60,cswate1n,12-9-1976,M,Other non-ABO incompatibility reaction
+61,msmees1o,3-2-1971,M,"Arthropathy associated with mycoses, upper arm"
+62,ogavaghan1p,11-4-1954,M,"Closed fracture of base of skull with intracranial injury of other and unspecified nature, with prolonged [more than 24 hours) loss of consciousness and return to pre-existing conscious level"
+63,rtoward1q,2-16-1964,F,Open fracture of C1-C4 level with complete lesion of cord
+64,wbrodway1r,4-11-1984,M,Pedal cycle accident injuring pedal cyclist
+65,jleopold1s,6-15-1988,M,"Puerperal sepsis, postpartum condition or complication"
+66,uskellorne1t,1-9-1973,M,"Enophthalmos, unspecified as to cause"
+67,aredford1u,12-29-1974,M,Closed dislocation of midcarpal (joint)
+68,hbaudino1v,3-8-1981,M,"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, postpartum condition or complication"
+69,vplail1w,11-22-1998,M,"Tuberculosis of adrenal glands, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+70,ktivers1x,9-26-1981,M,"Diabetes with renal manifestations, type II or unspecified type, uncontrolled"
+71,csimunek1y,4-18-1975,F,Onchocerciasis
+72,vmerryweather1z,8-16-1986,M,"True posterior wall infarction, episode of care unspecified"
+73,aangel20,7-30-1999,M,Derangement of posterior horn of lateral meniscus
+74,sstarten21,10-5-2006,F,"Aspiration of fluid as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+75,gbramsom22,7-5-1997,M,Spontaneous bacterial peritonitis
+76,hcaberas23,3-27-1978,F,Open fracture of medial condyle of humerus
+77,afardoe24,1-14-1963,M,"Acute myocardial infarction of inferoposterior wall, episode of care unspecified"
+78,cwaterstone25,10-25-1965,M,Corrected transposition of great vessels
+79,bhampton26,9-21-1976,M,Encounter for Papanicolaou cervical smear to confirm findings of recent normal smear following initial abnormal smear
+80,rbrotherhead27,8-19-1953,M,Secondary malignant neoplasm of other parts of nervous system
+81,cfautly28,12-2-2016,M,Fatal familial insomnia
+82,ajarrette29,2-6-2014,F,Mechanical and motor problems with head
+83,bdeek2a,12-19-1959,M,"Hyperemesis gravidarum with metabolic disturbance, delivered, with or without mention of antepartum condition"
+84,saudiss2b,4-15-1978,F,Other nonspecific abnormal findings in body substances
+85,mdaughtery2c,4-8-2007,F,"Arthropathy associated with Reiter's disease and nonspecific urethritis, ankle and foot"
+86,abeetles2d,12-3-1982,M,"Inguinal hernia, with obstruction, without mention of gangrene, unilateral or unspecified,recurrent"
+87,rdewett2e,10-26-1990,F,Ingrowing nail
+88,ugarber2f,6-1-1953,M,"Blisters, epidermal loss [second degree] of multiple sites of wrist(s) and hand(s)"
+89,seisenberg2g,3-27-2019,F,"Polyhydramnios, antepartum condition or complication"
+90,mdubble2h,8-21-1960,M,Poisoning by other specified systemic agents
+91,eocorrane2i,3-30-2005,M,Injury due to legal intervention by cutting and piercing instrument
+92,psivell2j,11-20-2001,F,"Tuberculosis of kidney, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+93,sfairbairn2k,6-1-2002,M,"Open fracture of vault of skull with cerebral laceration and contusion, with moderate [1-24 hours] loss of consciousness"
+94,cghelarducci2l,3-2-2019,F,Hypertrophy of labia
+95,otripett2m,1-15-1967,M,Suicide and self-inflicted injury by hanging
+96,ncaltun2n,12-16-1968,M,Aftercare for healing traumatic fracture of lower arm
+97,mjonson2o,1-4-1989,F,Amebic skin ulceration
+98,mthamelt2p,10-2-2012,M,"Tuberculosis of mastoid, tubercle bacilli found (in sputum) by microscopy"
+99,jlillecrap2q,3-31-2007,F,Contaminated substance injected or used for vaccination
+100,sgoodinge2r,7-12-1987,M,"Burn of internal organs, unspecified site"
+101,sthake2s,7-16-1957,M,"Tuberculous encephalitis or myelitis, bacteriological or histological examination not done"
+102,hrayhill2t,10-2-2009,M,"Abscess of breast associated with childbirth, antepartum condition or complication"
+103,kthacker2u,11-8-2003,F,"Unspecified monoarthritis, hand"
+104,ztampion2v,2-17-2000,M,Other specified forms of osteochondropathy
+105,igossage2w,1-15-2004,M,"Unspecified tuberculosis of central nervous system, bacteriological or histological examination unknown (at present)"
+106,hlapree2x,7-5-2008,M,Crushing injury of toe(s)
+107,cmason2y,6-25-1953,M,"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis"
+108,llearmount2z,11-5-2009,F,Attention to other artificial opening of digestive tract
+109,jbonsall30,3-7-1985,M,"Pre-operative examination, unspecified"
+110,gallanson31,5-30-1982,M,"Closed fracture of vault of skull with cerebral laceration and contusion, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level"
+111,gcoggen32,6-11-2007,F,"Other accidental submersion or drowning in water transport accident, occupant of military watercraft, any type"
+112,scoppo33,10-29-2001,M,"Blisters, epidermal loss [second degree] of ear [any part]"
+113,mmawdsley34,5-1-2017,F,"Spontaneous abortion, complicated by damage to pelvic organs or tissues, unspecified"
+114,agouldstraw35,10-20-1973,F,Attention to cystostomy
+115,wdanels36,3-11-1992,F,Pneumocystosis
+116,dcaesman37,6-9-1967,M,"Other preterm infants, 1,750-1,999 grams"
+117,lromke38,2-20-2018,F,T7-T12 level with unspecified spinal cord injury
+118,kmoxted39,2-7-1977,M,Redness or discharge of eye
+119,ivasile3a,5-25-1987,F,"Open wound of vagina, complicated"
+120,ldaber3b,9-22-1976,M,"Absence of ear lobe, congenital"
+121,cgout3c,5-2-1977,F,Closed fracture of cuboid
+122,scasier3d,6-26-1977,M,Unspecified reason for consultation
+123,bgartery3e,8-16-1982,M,Sleep related bruxism
+124,gmathers3f,5-27-1981,F,"Unspecified pervasive developmental disorder, current or active state"
+125,acordon3g,4-14-1999,M,Grand mal status
+126,spriver3h,2-7-1960,M,Gonococcal synovitis and tenosynovitis
+127,cchamberlain3i,2-28-1955,M,"Other symptoms referable to joint, pelvic region and thigh"
+128,sbeadell3j,5-11-1966,M,Introverted personality
+129,vhaye3k,9-26-2017,M,"Other joint derangement, not elsewhere classified, forearm"
+130,rbarthod3l,6-30-1994,F,"Acute miliary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+131,folekhov3m,4-3-2012,M,Postablative ovarian failure
+132,dsimone3n,4-2-1963,F,Paralytic ptosis
+133,aoatley3o,4-2-1989,F,Other and unspecified nonspecific immunological findings
+134,cjeandin3p,8-23-1981,M,Gonococcal keratosis (blennorrhagica)
+135,sflavelle3q,12-8-1972,M,Dysthymic disorder
+136,bgiottini3r,8-5-1966,M,Lung replaced by transplant
+137,acahalin3s,8-19-1980,M,Pyoderma gangrenosum
+138,fpaffley3t,4-1-2009,M,"Tuberculous encephalitis or myelitis, tubercle bacilli found (in sputum) by microscopy"
+139,gwitherspoon3u,5-20-1988,M,"Acute duodenal ulcer with hemorrhage, with obstruction"
+140,afitzmaurice3v,10-31-1961,F,Other specified disorders of adrenal glands
+141,jlodge3w,12-20-1971,F,Russian spring-summer [taiga] encephalitis
+142,jpersicke3x,2-5-2017,M,Newborn affected by other in utero procedure
+143,jandrieux3y,10-22-1961,M,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+144,mklaaassen3z,9-16-1980,F,Other specified polyglandular dysfunction
+145,gengelmann40,12-10-1964,F,Blepharospasm
+146,ndallan41,12-11-1957,F,Unspecified condition originating in the perinatal period
+147,mfrith42,11-26-1991,F,Counseling for parent-biological child problem
+148,dubsdale43,11-8-1998,M,"Injury by other and unspecified firearm, undetermined whether accidentally or purposely inflicted"
+149,gcobain44,1-21-1991,F,Friedländer's bacillus infection in conditions classified elsewhere and of unspecified site
+150,mcatonnet45,11-11-1980,F,Streptococcal meningitis
+151,mbernt46,5-22-1989,M,"Other lichen, not elsewhere classified"
+152,awemes47,8-26-1951,M,T1-T6 level with unspecified spinal cord injury
+153,amizzi48,2-14-1967,M,Unspecified noninfectious disorder of lymphatic channels
+154,cschimonek49,8-6-2019,M,"Rheumatic heart disease, unspecified"
+155,okaradzas4a,2-15-1988,F,Fitting and adjustment of automatic implantable cardiac defibrillator
+156,fboyet4b,9-17-1988,F,Ichthyosis congenita
+157,eginsie4c,5-12-1982,F,"Viral exanthem, unspecified"
+158,vkilgallen4d,9-18-2015,M,Carcinoma in situ of eye
+159,plipyeat4e,9-6-1950,F,Cerebrospinal fluid otorrhea
+160,sridgeway4f,6-30-2008,M,"Schizophrenic disorders, residual type, chronic"
+161,dcutmore4g,6-24-1986,F,Failed attempted abortion complicated by metabolic disorder
+162,zloker4h,10-11-2017,M,Reflex sympathetic dystrophy of the upper limb
+163,nmachoste4i,9-19-2019,M,"Osteopathy resulting from poliomyelitis, upper arm"
+164,jhonatsch4j,8-16-1957,M,Respiratory malfunction arising from mental factors
+165,bpolak4k,9-11-1975,M,Erythromycin and other macrolides causing adverse effects in therapeutic use
+166,bharcourt4l,3-31-1977,F,"Open dislocation of shoulder, other"
+167,iwinterflood4m,6-20-1979,F,Special screening for malignant neoplasms of nervous system
+168,mbaddeley4n,4-26-1966,M,"Hallucinogen dependence, continuous"
+169,rbraybrookes4o,12-9-1957,M,Celiac artery compression syndrome
+170,eharridge4p,3-6-1961,M,Injury to other specified cranial nerves
+171,apriddle4q,2-7-2003,M,"Open fracture of base of skull with other and unspecified intracranial hemorrhage, with concussion, unspecified"
+172,nyearron4r,5-2-1969,F,Other dentofacial functional abnormalities
+173,cklos4s,10-16-1995,M,"Open fractures involving skull or face with other bones, with cerebral laceration and contusion, with concussion, unspecified"
+174,lsurgeoner4t,7-15-2003,F,Carcinoma in situ of bladder
+175,ghansemann4u,7-23-1967,M,Railway accident involving derailment without antecedent collision injuring railway employee
+176,mpolding4v,5-16-2013,M,"Rupture of uterus during labor, unspecified as to episode of care or not applicable"
+177,hcrutchfield4w,2-29-2012,M,"Vulvar and perineal hematoma, postpartum condition or complication"
+178,gsproul4x,7-21-1960,M,"Sensorineural hearing loss, asymmetrical"
+179,ksharnock4y,11-18-1998,M,Sclerosing keratitis
+180,aducarne4z,8-30-1981,M,Suicide and self-inflicted injury by paintball gun
+181,rmcmylor50,6-5-1960,M,Attic perforation of tympanic membrane
+182,rsprake51,10-15-2004,F,Behcet's syndrome
+183,ritzkovici52,8-9-1995,F,"Acquired absence of organ, eye"
+184,kflintoffe53,3-9-1981,F,Laceration of heart without penetration of heart chambers or without mention of open wound into thorax
+185,kblanning54,4-16-1987,F,Erythema [first degree] of thumb (nail)
+186,nswanston55,8-11-2012,M,Euthyroid sick syndrome
+187,khallede56,9-28-1974,M,Rubella without mention of complication
+188,rbeviss57,2-12-1954,F,Lack of coordination
+189,aarnley58,8-9-1998,F,Hordeolum internum
+190,egipp59,12-14-1972,F,Fitting and adjustment of unspecified prosthetic device
+191,ncollishaw5a,4-5-2007,F,"Necrotizing enterocolitis in newborn, unspecified"
+192,rluckcock5b,8-25-1980,F,"Tuberculosis of vertebral column, unspecified"
+193,ighioni5c,9-5-2012,F,Open fracture of acetabulum
+194,dlatty5d,8-31-2020,M,Epicranial subaponeurotic hemorrhage (massive)
+195,zwellbeloved5e,4-22-1999,F,Other septicemia due to gram-negative organisms
+196,ksweating5f,4-7-1953,F,"Allergic arthritis, ankle and foot"
+197,bswinnard5g,8-19-2014,M,Critical illness polyneuropathy
+198,bwraggs5h,7-4-1966,M,Antenatal screening for isoimmunization
+199,wdoddrell5i,1-4-2003,M,Striking against or struck accidentally in running water
+200,lortet5j,8-1-2004,M,Acute allergic sanguinous otitis media
+201,ymilch5k,1-27-1966,M,"Aneurysm of aorta, specified as syphilitic"
+202,rboulder5l,1-9-2002,F,Lesion of lateral popliteal nerve
+203,rbiaggelli5m,9-10-1962,F,"Postdysenteric arthropathy, other specified sites"
+204,gtatum5n,4-26-1997,M,Secondary vitreoretinal degenerations
+205,ntheodore5o,12-11-2014,M,"Gonorrhea of mother, complicating pregnancy, childbirth, or the puerperium, postpartum condition or complication"
+206,wservis5p,1-1-1966,M,"Disruption of 24 hour sleep wake cycle, unspecified"
+207,amarginson5q,5-6-1988,M,Other specified cystic kidney disease
+208,wtruter5r,10-3-1954,F,Other speech disturbance
+209,lcharlet5s,7-9-1998,F,"Closed fractures involving skull or face with other bones, without mention of intracranial injury, unspecified state of consciousness"
+210,hbeach5t,1-19-1951,M,"Climacteric arthritis, shoulder region"
+211,bgathercoal5u,2-1-1985,F,Candidal meningitis
+212,mjackson5v,3-29-2012,M,Vitamin A deficiency with corneal ulceration and xerosis
+213,acoupe5w,9-24-1999,F,Contusion of elbow
+214,jschruur5x,4-5-1983,M,Other functional disorders of intestine
+215,eharly5y,1-15-1998,F,"Hypertonic, incoordinate, or prolonged uterine contractions, delivered, with or without mention of antepartum condition"
+216,abresland5z,8-27-1960,F,"Perpetrator of child and adult abuse, by unspecified person"
+217,boates60,8-11-1969,M,Other urogenital trichomoniasis
+218,tboutellier61,1-13-2016,M,Malignant pleural effusion
+219,hclimance62,3-25-1978,M,"Body Mass Index 39.0-39.9, adult"
+220,vromaines63,6-4-1975,F,Accident due to changes in air pressure due to other specified causes
+221,imacskeagan64,1-3-1982,M,Other road vehicle accidents injuring pedestrian
+222,fbyres65,7-9-1965,M,Adult sexual abuse
+223,wollerearnshaw66,2-16-2011,F,"Cerebellar or brain stem contusion without mention of open intracranial wound, with no loss of consciousness"
+224,fallred67,10-11-1960,M,Arthropathy associated with respiratory disorders
+225,rdocker68,7-30-1970,F,Selective mutism
+226,crignold69,10-20-1994,M,Chronic salpingitis and oophoritis
+227,msommerled6a,12-22-1975,M,Late effect of injury to other and unspecified nerve
+228,scromack6b,10-27-1994,M,Infection with microorganisms without mention of resistance to multiple drugs
+229,rstreet6c,5-20-1970,M,"Activities involving physical games generally associated with school recess, summer camp and children"
+230,etomkys6d,7-19-2013,M,"Other specified respiratory tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+231,doakshott6e,2-6-1987,M,Calcaneal spur
+232,voverton6f,1-12-1950,F,Nodular prostate without urinary obstruction
+233,tfassam6g,12-11-1970,F,"Megakaryocytic leukemia, in remission"
+234,mgosling6h,1-24-1956,M,"Large cell lymphoma, lymph nodes of head, face, and neck"
+235,nbrugsma6i,1-30-1972,F,Malignant neoplasm of junctional zone of tongue
+236,vfitzroy6j,7-18-1994,F,Diverticulosis of small intestine with hemorrhage
+237,aneill6k,3-10-2017,F,Other specified diseases of sebaceous glands
+238,frikard6l,3-16-1954,F,"Cannabis dependence, continuous"
+239,mgorch6m,3-4-1965,M,"Cortex (cerebral) laceration without mention of open intracranial wound, with loss of consciousness of unspecified duration"
+240,kplunkett6n,3-21-1968,F,Urethral fistula
+241,scraske6o,6-23-1982,F,"Closed fracture of vault of skull with subarachnoid, subdural, and extradural hemorrhage, with moderate [1-24 hours] loss of consciousness"
+242,nriordan6p,9-7-2001,F,Closed fracture of base of neck of femur
+243,adyhouse6q,9-12-1986,F,Other specified air transport accidents injuring occupant of commercial aircraft (powered) in surface to air transport
+244,astudholme6r,5-5-1986,F,Personal history of malignant neoplasm of other sites
+245,nhulk6s,1-1-1962,M,Chronic graft-versus-host disease
+246,znodin6t,12-13-1960,F,Anal high risk human papillomavirus (HPV) DNA test positive
+247,lpodd6u,7-20-1990,F,"Other open skull fracture with other and unspecified intracranial hemorrhage, with concussion, unspecified"
+248,pbowlas6v,4-27-1971,M,"Unqualified visual loss, both eyes"
+249,ecregan6w,2-23-1983,F,"Other anomalies of larynx, trachea, and bronchus"
+250,tmcauslan6x,7-7-2018,M,"Shoulder (girdle) dystocia, delivered, with or without mention of antepartum condition"
+251,felloy6y,6-15-1970,M,Chronic systolic heart failure
+252,cbarford6z,5-29-2008,F,"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+253,cirnys70,3-2-1975,F,"Hodgkin's disease, nodular sclerosis, unspecified site, extranodal and solid organ sites"
+254,nriolfi71,6-26-1961,M,Injury to common femoral artery
+255,chillen72,9-3-1992,F,Meconium staining
+256,mrubie73,4-21-1994,M,Felty's syndrome
+257,glosty74,12-7-2008,M,"Unspecified abortion, complicated by damage to pelvic organs or tissues, unspecified"
+258,gantwis75,7-11-2009,F,Anaphylactic reaction due to fish
+259,gsline76,2-2-1980,M,"Arthropathy associated with Reiter's disease and nonspecific urethritis, lower leg"
+260,dhradsky77,4-20-1976,F,"Open fracture of vault of skull without mention of intracranial injury, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level"
+261,llefwich78,1-30-2009,M,"Insect bite, nonvenomous of shoulder and upper arm, without mention of infection"
+262,cmcquirter79,3-7-1987,M,Other acute and subacute respiratory conditions due to fumes and vapors
+263,mcuel7a,6-6-1964,F,Accidental drowning and submersion in bathtub
+264,tstickings7b,3-8-1994,M,Injury due to war operations by nuclear radiation effects
+265,jfillimore7c,2-12-1984,F,"Food poisoning, unspecified"
+266,nbreissan7d,10-29-2013,M,"Tuberculosis of thyroid gland, bacteriological or histological examination not done"
+267,dstorm7e,6-28-1979,F,Cauliflower ear
+268,dpawelczyk7f,1-6-1992,F,"Quadriplegia, C5-C7, incomplete"
+269,bmedlar7g,12-26-1981,M,Failed attempted abortion with unspecified complication
+270,lbiesinger7h,10-8-1970,F,Endometriosis in scar of skin
+271,hmerrell7i,5-29-1981,F,Other secondary carnitine deficiency
+272,sdix7j,4-14-2014,F,Dental caries of root surface
+273,cpetruskevich7k,6-29-1985,F,"Fistula of intestine, excluding rectum and anus"
+274,wsenner7l,2-24-1975,M,Necrobacillosis
+275,lkaasman7m,9-25-1957,F,"Pain in joint, lower leg"
+276,jwolfe7n,7-19-1979,M,"Abdominal rigidity, left lower quadrant"
+277,cbenallack7o,4-21-2013,F,"Osteopathy resulting from poliomyelitis, ankle and foot"
+278,qlennox7p,10-14-1967,M,Transplanted organ removal status
+279,kramsdale7q,3-6-1980,F,Open dislocation of metacarpophalangeal (joint)
+280,lguirardin7r,3-15-1962,M,"Abdominal rigidity, other specified site"
+281,rcayton7s,11-13-1950,M,Unsatisfactory anal cytology smear
+282,hoxtarby7t,3-25-1974,M,Interstitial emphysema
+283,aarens7u,3-16-1999,M,Other specified perinatal disorders of digestive system
+284,sjan7v,1-21-1961,F,Trans-sexualism with heterosexual history
+285,aglasspoole7w,7-16-1986,M,Accidental poisoning by polishes
+286,breddel7x,11-6-2002,M,"Hypotony of eye, unspecified"
+287,jsharer7y,5-26-2008,F,Carrier or suspected carrier of amebiasis
+288,jocorrigane7z,7-17-1991,M,Injury to facial nerve
+289,ffriberg80,5-14-1984,M,"Subacute leukemia of unspecified cell type, in relapse"
+290,adogerty81,6-27-2000,M,"Bereavement, uncomplicated"
+291,kprowse82,6-8-2018,M,"Infertility, female, of pituitary-hypothalamic origin"
+292,hcrush83,3-7-1961,M,Internuclear ophthalmoplegia
+293,pantill84,8-12-2013,M,"Other infections involving bone in diseases classified elsewhere, other specified sites"
+294,cmcvaugh85,2-24-1955,F,Accidental mechanical suffocation by falling earth or other substance
+295,ecroneen86,7-2-1992,M,Flaccid hemiplegia and hemiparesis affecting nondominant side
+296,dwhoston87,9-8-1950,F,Other specific developmental learning difficulties
+297,astowe88,6-6-1989,F,Severe hypoxic-ischemic encephalopathy
+298,mkidsley89,8-27-2014,F,"Closed dislocation of finger, unspecified part"
+299,flodin8a,12-21-2007,M,"Blood transfusion, without reported diagnosis"
+300,hbachs8b,7-14-1984,M,Sprain of sacrotuberous (ligament)
+301,ljovic8c,8-27-1990,M,Angioid streaks of choroid
+302,sohanvey8d,2-15-1977,F,Antenatal screening for fetal growth retardation using ultrasonics
+303,desel8e,8-1-1977,M,Benign shuddering attacks
+304,dceyssen8f,8-5-2006,F,Attention to tracheostomy
+305,pesslemont8g,11-6-1967,M,Accidental poisoning by unspecified tranquilizer
+306,bcrosthwaite8h,7-30-2020,F,"Concussion with prolonged loss of consciousness, without return to pre-existing conscious level"
+307,ppawson8i,9-4-1958,F,Other noninfectious disorders of lymphatic channels
+308,galeksankov8j,5-22-1992,M,"Burn [any degree] involving 20-29 percent of body surface with third degree burn, 10-19%"
+309,sprater8k,2-1-1976,F,Injury to ulnar nerve
+310,fklulik8l,9-26-1978,F,"Unspecified cataclysmic storms, and floods resulting from storms"
+311,bfiggess8m,7-16-2006,F,"Cocaine abuse, episodic"
+312,cleneve8n,11-25-1994,F,Accidental poisoning by psychostimulants
+313,bkells8o,4-12-1999,M,"Suspected damage to fetus from viral disease in the mother, affecting management of mother, unspecified as to episode of care or not applicable"
+314,dpee8p,8-19-1971,M,Strabismus in other neuromuscular disorders
+315,gpentlow8q,10-16-1998,F,Diseases of lips
+316,mmartinho8r,6-28-1978,M,Foreign body granuloma of muscle
+317,lbartol8s,12-9-2019,M,Malignant neoplasm of labia majora
+318,lboliver8t,1-2-1958,F,"Hemiplegic migraine, without mention of intractable migraine with status migrainosus"
+319,adummer8u,10-19-2019,M,Traumatic pneumothorax with open wound into thorax
+320,ssurfleet8v,11-9-1971,M,"Other dislocation of knee, open"
+321,blamberth8w,7-11-1955,F,"Leukemic reticuloendotheliosis, lymph nodes of inguinal region and lower limb"
+322,pcapitano8x,4-29-1972,F,"Recurrent dislocation of joint, site unspecified"
+323,obrickett8y,4-17-1955,M,"Ectopic hormone secretion, not elsewhere classified"
+324,zvanyatin8z,12-19-1979,F,Carcinoma in situ of scalp and skin of neck
+325,csignoret90,2-20-1974,M,Madelung's deformity
+326,afudge91,11-3-2005,M,"Other congenital or acquired abnormality of cervix, unspecified as to episode of care or not applicable"
+327,tminghetti92,1-4-1950,M,Macroglobulinemia
+328,abarlow93,12-12-2006,F,"Hemiplegic migraine, with intractable migraine, so stated, with status migrainosus"
+329,achampney94,2-7-2002,F,Cervical rib
+330,kleaves95,1-27-1982,F,"Toxic effect of other pesticides, not elsewhere classified"
+331,enezey96,6-16-2005,F,"Leukemic reticuloendotheliosis, intra-abdominal lymph nodes"
+332,byabsley97,9-26-1994,F,Closed fracture of T7-T12 level with unspecified spinal cord injury
+333,khardy98,2-15-2014,F,Crushing injury of unspecified site of trunk
+334,tsidnell99,1-25-1953,M,Symptomatic hemophilia A carrier
+335,lzuann9a,7-15-1996,M,Rectal prolapse
+336,rdumbrell9b,12-3-1983,M,"Postdysenteric arthropathy, site unspecified"
+337,nsteed9c,3-22-1951,F,Metabolic disorders following abortion or ectopic and molar pregnancies
+338,vvoak9d,7-26-1976,M,Spermatocele
+339,hshevels9e,6-7-1955,M,"Unspecified monoarthritis, other specified sites"
+340,zdewdney9f,6-6-1990,M,Chronic viral hepatitis B with hepatic coma without hepatitis delta
+341,blillow9g,3-18-1977,M,"Peripheral T cell lymphoma, lymph nodes of head, face, and neck"
+342,jparkins9h,9-26-1966,F,Other specified cerebral degenerations in childhood
+343,bgame9i,8-23-1968,F,Unspecified alcohol-induced mental disorders
+344,jbosnell9j,7-24-2019,M,"Closed fracture of vault of skull with intracranial injury of other and unspecified nature, unspecified state of consciousness"
+345,pewdale9k,8-10-1963,F,Other chronic dermatitis due to solar radiation
+346,nrichichi9l,6-5-1955,F,Unspecified alcohol-induced mental disorders
+347,cguilford9m,4-29-1982,F,"Blisters, epidermal loss [second degree] of knee"
+348,nrieger9n,4-4-1973,F,Acute systolic heart failure
+349,tschober9o,12-21-2002,F,Diastematomyelia
+350,aroby9p,3-21-2015,M,Perforation of intestine
+351,jbenninger9q,8-10-1978,M,Urethral hypermobility
+352,slyles9r,9-13-2008,F,"Injury to other gastrointestinal sites, with open wound into cavity"
+353,tmacritchie9s,5-4-1970,F,Rubella with other neurological complications
+354,dtordiffe9t,1-1-1972,M,Sensory problem with neck and trunk
+355,wlevee9u,1-31-1998,F,Hepatopulmonary syndrome
+356,mlaughlan9v,5-23-2014,F,Neoplasm of uncertain behavior of paraganglia
+357,ciorillo9w,3-19-1998,F,"Arthropathy associated with other infectious and parasitic diseases, hand"
+358,krigge9x,11-16-1995,M,Other activity involving other sports and athletics played individually
+359,fsille9y,3-11-1995,F,Polyuria
+360,dsibbet9z,2-1-1982,F,Machinery accident in water transport injuring unspecified person
+361,lhallswortha0,3-9-2011,F,Malignant neoplasm of upper limb
+362,othickinga1,9-6-1972,F,"Pressure ulcer, upper back"
+363,mbicknella2,6-23-2009,M,Closed fracture of four ribs
+364,lroddya3,3-11-2011,F,Lupus erythematosus
+365,hrestieauxa4,5-10-1969,M,Gastroparesis
+366,rnoona5,11-28-2008,M,Seborrhea
+367,edowsea6,9-12-1953,M,Better eye: moderate vision impairment; lesser eye: total vision impairment
+368,srichardina7,1-13-1983,F,"Locked twins, antepartum condition or complication"
+369,twarfielda8,6-28-1983,F,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with concussion, unspecified"
+370,amacknockera9,2-25-1984,M,Other non-autoimmune hemolytic anemias
+371,fsimonaa,5-28-1973,M,Other scars of posterior pole
+372,lnapoleonab,12-29-1999,M,Lymphangitis
+373,hritchieac,10-31-1982,F,Intestinal infection due to proteus (mirabilis) (morganii)
+374,bjoselandad,9-5-1951,M,Terrorism involving explosion of marine weapons
+375,mseersae,6-27-2010,M,"Hodgkin's disease, lymphocytic depletion, lymph nodes of inguinal region and lower limb"
+376,wbeckinsallaf,12-23-2017,M,Irregular astigmatism
+377,tbaldiag,3-27-1999,M,Loss of teeth due to trauma
+378,jgreengrassah,9-6-1965,M,Other speech disturbance
+379,jsellyai,8-31-1970,M,Insertion of implantable subdermal contraceptive
+380,fcaustonaj,8-13-2005,M,Other arterial embolism and thrombosis of abdominal aorta
+381,adoornbosak,1-14-1994,M,"Bilateral paralysis of vocal cords or larynx, complete"
+382,roliphardal,5-24-1985,M,"Obstetrical air embolism, delivered, with mention of postpartum complication"
+383,oadeyam,2-28-1977,F,Air embolism
+384,rcolletean,10-9-1996,F,Oligospermia
+385,mszwarcao,12-22-2007,F,"Open wound of other and multiple sites of face, without mention of complication"
+386,klarkworthyap,7-22-2013,F,"Other open skull fracture with cerebral laceration and contusion, with no loss of consciousness"
+387,ltheussaq,10-9-2002,F,"Ornithosis, unspecified"
+388,hdanforthar,6-29-1967,M,Examination for medicolegal reasons
+389,vjimeas,11-20-2000,F,Unspecified respiratory condition of fetus and newborn
+390,bhartusat,2-18-1970,M,Incorrect dilution of fluid during infusion
+391,hkennerknechtau,10-21-1981,M,Other noncollision motor vehicle traffic accident injuring passenger in motor vehicle other than motorcycle
+392,fcordleav,12-12-1968,F,"Other and unspecified cerebral laceration and contusion, with open intracranial wound, with loss of consciousness of unspecified duration"
+393,mmcleoidaw,6-30-1989,F,"Other fall from one level to another in water transport, occupant of military watercraft, any type"
+394,brupelax,8-5-1955,M,"Traumatic amputation of arm and hand (complete) (partial), unilateral, at or above elbow, complicated"
+395,cdeemingay,2-26-1955,M,Septicemia due to hemophilus influenzae [H. influenzae]
+396,tpittendreighaz,4-20-1990,F,Pseudopapilledema
+397,mgokesb0,3-11-1980,M,"Maternal complications from in utero procedure, unspecified as to episode of care or not applicable"
+398,ccarltonb1,12-25-2018,M,"Pressure ulcer, unspecified site"
+399,kgouldebyb2,6-5-2017,F,"Closed fracture of vault of skull with intracranial injury of other and unspecified nature, with moderate [1-24 hours] loss of consciousness"
+400,ghefnerb3,8-14-1987,F,Chronic venous hypertension with inflammation
+401,amaudeb4,4-28-1974,F,Toxic effect of caustic alkalis
+402,dbaystingb5,5-15-1967,M,Personal history of immunosuppressive therapy
+403,mrebouletb6,5-27-1964,F,"Abnormality in fetal heart rate or rhythm, antepartum condition or complication"
+404,liannuzzib7,5-3-1982,M,Disturbances of sulphur-bearing amino-acid metabolism
+405,jtremlettb8,12-20-1974,M,Myopathy in endocrine diseases classified elsewhere
+406,fkeymarb9,11-22-1985,F,Nonspecific (abnormal) findings on radiological and other examination of musculoskeletal system
+407,twarcupba,3-3-1960,M,"Closed fractures involving skull or face with other bones with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level"
+408,wcastelletbb,12-1-2004,F,"Otosclerosis involving oval window, obliterative"
+409,ttroutbeckbc,11-23-1990,M,Alcoholic fatty liver
+410,mmoultriebd,11-4-1977,M,"Longitudinal deficiency, radial, complete or partial (with or without distal deficiencies, incomplete)"
+411,bwastallbe,8-23-1954,F,"Postpartum coagulation defects, unspecified as to episode of care or not applicable"
+412,rsoanesbf,11-21-1952,F,"Fetal growth retardation, unspecified, unspecified [weight]"
+413,elyfieldbg,5-16-1972,F,Sprain of metacarpophalangeal (joint) of hand
+414,mtorettabh,1-29-2004,M,"Urinary incontinence, unspecified"
+415,tscrutonbi,6-27-1987,F,"Delayed delivery of second twin, triplet, etc., delivered, with or without mention of antepartum condition"
+416,tsheehybj,3-23-1968,F,"Penetrating wound of orbit, without mention of foreign body"
+417,dwerrettbk,3-22-2014,F,Other chronic serous otitis media
+418,ejambrozekbl,10-2-2003,F,Other unspecified secondary hypertension
+419,bdawidowitschbm,2-11-1973,M,Unspecified family circumstance
+420,pprendeguestbn,10-2-1976,F,Illegitimacy or illegitimate pregnancy
+421,mchristiensenbo,4-27-1956,M,Contact with or exposure to meningococcus
+422,amushettbp,7-3-1986,M,"Cleft palate with cleft lip, bilateral, complete"
+423,tmcsparranbq,4-23-1981,F,"Nonpurulent mastitis associated with childbirth, unspecified as to episode of care or not applicable"
+424,bsempillbr,4-29-1957,F,Screening examination for unspecified infectious disease
+425,ohaugbs,3-19-2015,M,Conductive hearing loss of combined types
+426,ieglingtonbt,3-21-1956,M,Arteriovenous fistula of pulmonary vessels
+427,wgeckebu,8-21-1999,F,Acute allergic sanguinous otitis media
+428,kflaxonbv,10-28-1998,F,"Arthropathy associated with Reiter's disease and nonspecific urethritis, multiple sites"
+429,lgaylordbw,3-5-1991,M,"Unspecified derangement of joint, ankle and foot"
+430,rhanveybx,4-29-2012,M,"Body Mass Index 60.0-69.9, adult"
+431,dwellsteadby,11-2-1968,F,Unspecified viral infection
+432,dorderbz,7-19-1988,M,Closed fracture of coronoid process of ulna
+433,dtwinningc0,8-20-2002,F,Accidents caused by hypodermic needle
+434,kjoselovitchc1,6-14-2014,F,Poisoning by methadone
+435,sapplebeec2,4-1-2010,M,Adult failure to thrive
+436,ecathelc3,7-4-2005,M,Poisoning by peripheral nerve- and plexus-blocking anesthetics
+437,friellyc4,12-11-1987,M,Late effect of fracture of skull and face bones
+438,tcollisterc5,9-5-2002,F,Other organic sleep apnea
+439,nduddanc6,9-17-2010,M,Bacteremia
+440,ddaidc7,5-30-1955,F,Diverticulosis of colon with hemorrhage
+441,swerlockc8,3-19-1974,F,Pathologic fracture of neck of femur
+442,vwimpeneyc9,6-1-2002,M,Renal glycosuria
+443,gbruckentca,10-19-1966,M,"Old retinal detachment, partial"
+444,mfenimorecb,8-28-1965,M,Open fracture of ischium
+445,alorrimancc,5-26-1976,M,Vitamin A deficiency with corneal ulceration and xerosis
+446,emeddemmencd,1-28-2015,F,Malignant neoplasm of other parts of mediastinum
+447,jabazice,12-5-2008,M,"Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part, of palm of hand"
+448,ebunchcf,5-19-1974,M,Human herpesvirus 6 infection
+449,alitzmanncg,2-6-2005,M,"Injury to pancreas, head, with open wound into cavity"
+450,sfitzackerleych,8-20-1974,F,Morbid obesity
+451,bboullenci,6-24-1983,F,"Subdural hemorrhage following injury without mention of open intracranial wound, with brief [less than one hour] loss of consciousness"
+452,bbantoncj,1-18-2013,F,"Excessive attrition, limited to enamel"
+453,gvakhoninck,8-6-1954,M,"Encephalopathy, unspecified"
+454,asexceycl,7-11-2012,M,Acute on chronic combined systolic and diastolic heart failure
+455,cwanlesscm,12-25-1972,M,Malignant neoplasm of nipple and areola of male breast
+456,slamburnecn,4-2-1997,F,Pathologic fracture of other specified site
+457,teverestco,11-27-1980,M,Family history of leukemia
+458,nmclagancp,3-11-1951,F,Neonatal jaundice associated with preterm delivery
+459,mdallemorecq,10-12-2017,M,Primary carnitine deficiency
+460,lburlesscr,3-28-1959,F,"Erythema [first degree] of eye (with other parts face, head, and neck)"
+461,ftrekercs,8-11-1995,M,Mucositis (ulcerative) due to other drugs
+462,jkondratenkoct,6-11-1985,M,Malignant carcinoid tumor of the bronchus and lung
+463,rsylvestercu,8-11-1999,F,Systemic sclerosis
+464,wdyhousecv,11-29-1993,F,"Superficial foreign body (splinter) of hip, thigh, leg, and ankle, without major open wound, infected"
+465,gspeakscw,10-14-1968,M,Nontraumatic rupture of unspecified tendon
+466,tbendingcx,2-19-1976,M,Other urinary incontinence
+467,mscinellicy,4-29-2011,M,"Unspecified abortion, complicated by renal failure, unspecified"
+468,lkorescz,6-12-1954,F,Unspecified fistula involving female genital tract
+469,tjansensd0,5-8-1993,M,"Closed fractures involving skull or face with other bones, with intracranial injury of other and unspecified nature, unspecified state of consciousness"
+470,mstickellsd1,7-23-1980,M,Secondary syphilis of skin or mucous membranes
+471,ldonativod2,1-12-1991,F,Mechanical complication due to artificial skin graft and decellularized allodermis
+472,jpitfordd3,5-11-2003,F,Unspecified congenital anomaly of heart
+473,zingermand4,1-25-1984,F,Closed fracture of anatomical neck of humerus
+474,dfibbittsd5,6-30-1968,F,Pathological gambling
+475,mfosherd6,10-7-2000,M,Other posterior corneal dystrophies
+476,lsteagalld7,3-21-1987,F,Senile reticular degeneration
+477,sferrieresd8,12-4-2009,M,Squamous cell carcinoma of scalp and skin of neck
+478,gburnelld9,1-8-1977,M,"Arthropathy associated with Reiter's disease and nonspecific urethritis, lower leg"
+479,tmccreeryda,10-9-1960,M,"Open dislocation, fifth cervical vertebra"
+480,hkleiserdb,2-6-1973,M,Herpes zoster iridocyclitis
+481,cwithringtondc,2-5-2004,F,Retained glass fragments
+482,smcmahondd,4-19-1953,M,Localized adiposity
+483,lklezmskide,12-9-1990,F,Tuboplasty or vasoplasty after previous sterilization
+484,apuddiferdf,4-1-1990,F,Screening examination for rickettsial diseases
+485,csiemandldg,5-15-1954,F,"Major depressive affective disorder, recurrent episode, unspecified"
+486,tbestimandh,6-23-1953,M,"Open wound(s) (multiple) of unspecified site(s), complicated"
+487,gmclennandi,3-12-1975,M,Paresis of accommodation
+488,rbanaszkiewiczdj,5-20-2010,M,Pancreas replaced by transplant
+489,abrunetdk,12-13-1961,M,Infection with microorganisms resistant to penicillins
+490,cwethdl,2-15-1960,M,Other postprocedural status
+491,nsayesdm,8-17-1951,F,Transfusion associated circulatory overload
+492,wessondn,12-15-1975,F,Persistent fetal circulation
+493,tsaverydo,7-1-1954,M,"Other and unspecified disc disorder, unspecified region"
+494,wregglerdp,1-22-1954,F,Personal history of colonic polyps
+495,mphipsondq,9-22-1992,M,Hydantoin derivatives causing adverse effects in therapeutic use
+496,ecowindr,4-21-1950,F,Pulmonary alveolar proteinosis
+497,bleadds,12-22-1998,F,Injury to blood vessels of unspecified site
+498,kpriverdt,10-2-1994,M,"Injury by military firearms, undetermined whether accidentally or purposely inflicted"
+499,mbosdendu,9-11-2007,F,"Hodgkin's granuloma, intrapelvic lymph nodes"
+500,kdoriedv,9-21-2008,F,Vaccination not carried out for other reason
+501,neliasendw,12-12-2016,F,"Unspecified monoarthritis, lower leg"
+502,hrushbrookedx,5-12-2001,M,"Torticollis, unspecified"
+503,stroctordy,6-26-1952,F,"Blisters, epidermal loss [second degree] of abdominal wall"
+504,bglavesdz,9-14-1991,M,Unspecified senile psychotic condition
+505,arosberge0,4-21-1967,F,Arthropathy associated with gastrointestinal conditions other than infections
+506,wfressone1,1-26-1955,F,"Deep necrosis of underlying tissues [deep third degree] with loss of a body part, of axilla"
+507,nsadgrovee2,7-31-1987,F,Accident caused by excessive heat due to weather conditions
+508,bspirese3,7-16-1976,F,Oliguria and anuria
+509,kgrealishe4,10-20-1977,F,"Malignant mast cell tumors, unspecified site, extranodal and solid organ sites"
+510,ggrievee5,6-24-2002,F,Pneumonia due to anaerobes
+511,sdeavine6,7-21-1958,M,Other heart block
+512,daclande7,6-12-1978,M,Other specified heat effects
+513,tpennicarde8,2-10-1971,F,Injury due to war operations by destruction of aircraft due to enemy fire or explosives
+514,ftabore9,9-24-1953,M,Irregular astigmatism
+515,bgravenorea,1-6-1967,F,"Closed fractures involving skull or face with other bones, with intracranial injury of other and unspecified nature, with moderate [1-24 hours] loss of consciousness"
+516,sudyeb,9-25-1974,F,"Injury to spleen with open wound into cavity, capsular tears, without major disruption of parenchyma"
+517,enockoldsec,8-21-1950,M,"Burn [any degree] involving 60-69 percent of body surface with third degree burn, 40-49%"
+518,dscourgeed,8-7-1982,F,"Secondary diabetes mellitus with renal manifestations, uncontrolled"
+519,nkippinee,5-9-1970,F,"Prolapse of cord complicating labor and delivery, delivered, with or without mention of antepartum condition"
+520,klantiffeef,6-15-1973,F,"Reflex sympathetic dystrophy, unspecified"
+521,rlemanueg,8-3-1988,F,Urethral syndrome NOS
+522,maluardeh,2-29-2020,F,"Open fracture of base of skull with cerebral laceration and contusion, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level"
+523,uhodgonei,6-11-1963,F,Injury to median nerve
+524,jswainsonej,4-5-1998,F,Late effects of genitourinary tuberculosis
+525,lbrechek,3-8-2013,F,Carrier or suspected carrier of other gastrointestinal pathogens
+526,tpidlerel,7-2-1961,M,Other benign neoplasm of connective and other soft tissue of pelvis
+527,ldeliaem,6-17-1989,F,Disorders of olfactory (1st) nerve
+528,noddeyen,11-7-1998,M,Ileostomy status
+529,cdrinkalleo,1-8-1993,M,Other specified paralytic syndrome
+530,mheggeep,4-11-2017,M,Poisoning by alkalizing agents
+531,tdumbareq,3-9-1987,F,Pectus excavatum
+532,cmaddyer,2-5-2003,F,"Unspecified tuberculosis of central nervous system, bacteriological or histological examination not done"
+533,opabloses,10-21-1997,M,Secondary lacrimal atrophy
+534,scandeyet,2-17-1963,F,Injury to posterior tibial vein
+535,mlandreaneu,5-4-2017,F,"Spontaneous abortion, complicated by embolism, unspecified"
+536,pgillaspyev,3-7-1984,M,Secondary corneal edema
+537,swrinchew,2-1-2003,M,"Degenerative disorder of globe, unspecified"
+538,ctrehearneex,3-25-1959,M,Open fracture of larynx and trachea
+539,bdraneey,8-26-1978,F,"Tick-borne rickettsiosis, unspecified"
+540,dbeadnallez,11-2-1965,F,"Infection by Histoplasma capsulatum, endocarditis"
+541,gfeaveerf0,5-5-1990,F,Pectus carinatum
+542,alettsf1,4-29-2009,M,Special screening for malignant neoplasms of ovary
+543,nlafondf2,12-8-2012,M,Erosion and ectropion of cervix
+544,esiviterf3,5-3-1993,M,Family history of other specified eye disorder
+545,larthanf4,3-3-1959,F,Dyspepsia and other specified disorders of function of stomach
+546,nlochranf5,10-4-1961,M,Benign carcinoid tumor of the descending colon
+547,hmougelf6,8-19-1964,F,Contusion of eyeball
+548,xgaukrogerf7,2-26-1989,F,Foreign object left in body during infusion or transfusion
+549,edeamerf8,7-7-1995,M,"Chronic serous otitis media, simple or unspecified"
+550,lespinoyf9,11-5-1973,F,Closed fracture of unspecified part of fibula alone
+551,cblakesfa,4-3-1974,M,"Poisoning by mixed sedatives, not elsewhere classified"
+552,bcollcuttfb,4-21-1980,M,Railway accident involving collision with other object and injuring passenger on railway
+553,rpoldenfc,3-10-1976,F,Foot amputation status
+554,tstrewtherfd,8-24-1992,M,"Fetal growth retardation, unspecified, 2,500 grams and over"
+555,ecleveleyfe,11-13-1952,F,Perinatal intestinal perforation
+556,ldoullff,8-5-1961,F,Wrist drop (acquired)
+557,wdanielsenfg,7-11-1988,F,Exposure to other specified radiation
+558,gfaircliffefh,4-24-1960,F,"Bone and joint disorders of back, pelvis, and lower limbs of mother, unspecified as to episode of care or not applicable"
+559,dsambidgefi,3-3-2007,M,Unspecified malignant neoplasm of skin of lip
+560,sdickerfj,4-8-1971,M,"Esophageal varices in diseases classified elsewhere, without mention of bleeding"
+561,zfitzackerleyfk,1-31-1951,F,Carbuncle and furuncle of upper arm and forearm
+562,mspraggefl,1-12-1978,F,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with brief [less than one hour] loss of consciousness"
+563,rgodleyfm,3-3-1974,F,Acute Eustachian salpingitis
+564,lwhodcoatfn,3-16-1952,M,Erythema [first degree] of genitalia
+565,jdamperfo,2-13-1974,M,Talipes calcaneovalgus
+566,lsyselandfp,9-28-2002,F,Indeterminate stage glaucoma
+567,abroufq,10-28-1970,F,Family history of arthritis
+568,glagrangefr,2-2-1986,M,"Bipolar I disorder, most recent episode (or current) mixed, severe, without mention of psychotic behavior"
+569,kfryettfs,5-23-1975,M,Hemoglobinuria
+570,adibenft,2-7-1976,F,"Papyraceous fetus, unspecified as to episode of care or not applicable"
+571,anannifu,8-31-2002,M,Closed anterior dislocation of elbow
+572,rhorningfv,8-17-1992,M,Acute laryngopharyngitis
+573,jandriessenfw,1-22-2001,M,"Hereditary disease in family possibly affecting fetus, affecting management of mother, antepartum condition or complication"
+574,fbattellefx,2-18-1987,F,Injury to cervical nerve root
+575,bstripplingfy,4-8-2015,M,Chronic paroxysmal hemicrania
+576,bbillitterifz,8-25-1959,M,"Cholera, unspecified"
+577,lrubertellig0,8-4-2008,F,Carbuncle and furuncle of face
+578,ndicksong1,9-12-1950,F,Other ocular manifestations of vitamin A deficiency
+579,kjeremiahg2,5-24-1984,M,Food poisoning due to other Clostridia
+580,yairdg3,3-20-2015,M,Accident due to changes in air pressure due to diving
+581,kauldg4,3-18-2003,M,Anomalies of ear ossicles
+582,jspinksg5,12-17-1959,F,Late effects of genitourinary tuberculosis
+583,kdossitg6,3-24-2020,M,"Accidental cut, puncture, perforation or hemorrhage during endoscopic examination"
+584,frambleg7,10-21-1993,M,Post-traumatic seroma
+585,jdoolang8,12-17-1984,M,Accident to watercraft causing submersion injuring unspecified person
+586,tsaynorg9,3-9-1972,F,Other motor vehicle nontraffic accident involving collision with stationary object injuring passenger in motor vehicle other than motorcycle
+587,croderhamga,10-28-1961,F,"Cannabis dependence, in remission"
+588,mbruynsgb,9-12-1974,M,Assault by pushing from a high place
+589,mclementgc,1-14-1985,F,"Spinal stenosis, thoracic region"
+590,gpelosigd,2-9-1951,F,Unspecified condition involving the integument and temperature regulation of fetus and newborn
+591,cmcmahonge,2-25-1993,M,"Chondrocalcinosis, due to pyrophosphate crystals, hand"
+592,jmargueritegf,10-18-1997,F,Ptosis of breast
+593,fclaasengg,9-8-1983,F,Other degenerative disorders of sclera
+594,fharsentgh,4-21-1994,M,"Tuberculosis of other male genital organs, unspecified"
+595,mavrahamgi,12-25-1967,F,Folds and rupture of bowman's membrane
+596,aandresengj,5-26-1985,F,"Fetal growth retardation, unspecified, less than 500 grams"
+597,jtowsiegk,2-16-1965,M,"Cortex (cerebral) laceration with open intracranial wound, with loss of consciousness of unspecified duration"
+598,kmcmenamingl,5-25-1985,F,"Other open skull fracture without mention of intracranial injury, with brief [less than one hour] loss of consciousness"
+599,ndurrantgm,5-27-2013,F,"Cerebrovascular disorders in the puerperium, antepartum condition or complication"
+600,smattgn,9-19-1997,M,Transient refractive change
+601,gwisemango,7-8-1968,F,Inclusion conjunctivitis
+602,aweallgp,7-16-1997,M,"Simple type schizophrenia, chronic"
+603,kbrittangq,4-1-1997,F,"Other and unspecified fall in water transport injuring occupant of small boat, unpowered"
+604,smyersgr,9-10-1998,M,"Open fracture of vault of skull with cerebral laceration and contusion, with moderate [1-24 hours] loss of consciousness"
+605,ftysallgs,6-19-1958,F,"Other and unspecified cerebral laceration and contusion, with open intracranial wound, unspecified state of consciousness"
+606,cquarmbygt,2-17-2013,F,Personal history of antineoplastic chemotherapy
+607,dstroulgergu,9-26-1984,M,Acute sanguinous otitis media
+608,aarpinogv,8-14-1987,F,Iatrogenic carnitine deficiency
+609,alabbagw,6-6-1991,M,Contusion of upper arm
+610,bkobschgx,6-13-2015,M,Neoplasm of uncertain behavior of connective and other soft tissue
+611,alinnitgy,6-21-2010,F,Unspecified adjustment reaction
+612,rpressleegz,9-6-2012,F,"Tumors of body of uterus, postpartum condition or complication"
+613,rneilh0,1-16-1992,F,Other accidental submersion or drowning in water transport accident injuring swimmer
+614,tcleoburyh1,1-7-1966,M,Screening for glaucoma
+615,ofrossellh2,4-4-1994,M,"Pneumoconiosis, unspecified"
+616,estrainh3,10-16-1990,F,"Unspecified infective arthritis, upper arm"
+617,wlawlandh4,7-29-1962,F,Malignant carcinoid tumor of the duodenum
+618,kenderbyh5,9-21-1950,M,"Sprain of ankle, unspecified site"
+619,mbeavonh6,1-22-1950,F,Edema of male genital organs
+620,aiacoboh7,3-1-1964,F,Abnormality of secretion of gastrin
+621,dflohardh8,9-5-1960,M,"Burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites"
+622,medgarh9,7-18-1963,F,"Megacolon, other than Hirschsprung's"
+623,mguthrieha,8-8-1972,M,Benign neoplasm of other specified sites of nervous system
+624,rpidonhb,3-5-2001,M,"Open fracture of vault of skull with subarachnoid, subdural, and extradural hemorrhage, with concussion, unspecified"
+625,hladenhc,11-23-1975,F,Other degenerative disorders of sclera
+626,pspittalhd,4-23-2019,M,Anticoagulants causing adverse effects in therapeutic use
+627,ntugmanhe,12-25-1991,M,Omphalitis of the newborn
+628,tpickenhf,10-3-2017,F,Diverticulum of pharynx
+629,bpashhg,1-24-1973,F,Screening for glaucoma
+630,rmurishh,2-26-1963,F,Lipidoses
+631,pnaisbyhi,5-7-1965,F,"Dislocation of knee, unspecified, open"
+632,gpetrukhj,3-31-1980,F,"Histoplasmosis, unspecified, other"
+633,dforsbeyhk,12-6-1959,F,Esophageal leukoplakia
+634,cyannikovhl,2-19-1986,F,"Burn [any degree] involving 90 percent or more of body surface with third degree burn, less than 10 percent or unspecified"
+635,slorenzohm,5-30-1968,F,Other drugs and medicinal substances causing adverse effects in therapeutic use
+636,jleishmanhn,1-13-1984,M,Abnormality of secretion of glucagon
+637,gchristofolho,3-16-2003,F,T7-T12 level with anterior cord syndrome
+638,cskeelshp,4-25-1991,F,"Blisters, epidermal loss [second degree] of ankle"
+639,csplevinhq,12-2-1957,F,Other orthopoxvirus infections
+640,aeeftinghr,3-3-2003,M,Reflex sympathetic dystrophy of other specified site
+641,aavishs,5-28-1984,M,Local deformities of orbit due to bone disease
+642,lbitchenoht,2-6-1999,M,Maternal anesthesia and analgesia affecting fetus or newborn
+643,amcramseyhu,9-11-1982,M,Cardiac tamponade
+644,dleatthv,1-7-1991,M,Other scars of posterior pole
+645,sivanilovhw,3-1-2009,F,Injury due to war operations by nuclear radiation effects
+646,wclellhx,3-15-2010,M,"Benign carcinoid tumor of the large intestine, unspecified portion"
+647,rsouthertonhy,12-10-1951,F,Encounter for blood typing
+648,ngoutcherhz,1-16-1965,M,Ocular fistula causing hypotony
+649,bdolphini0,3-12-1965,F,Cracked tooth
+650,wbancei1,7-4-1998,F,"Bariatric surgery status complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+651,mhierroi2,9-23-1982,M,Chronic venous hypertension with ulcer
+652,ctoderbruggei3,7-29-1990,M,"Gingival recession, unspecified"
+653,blevitti4,6-16-1980,F,"Neoplasm of uncertain behavior of stomach, intestines, and rectum"
+654,dmccanei5,1-2-1965,F,Accidental poisoning by psychostimulants
+655,rkeppyi6,10-3-1983,F,"Amphetamine and other psychostimulant dependence, in remission"
+656,lpraundlini7,6-24-2003,M,"Injury by extremes of cold, undetermined whether accidentally or purposely inflicted"
+657,dpalffreyi8,9-25-2018,M,Initial lesions of yaws
+658,estockeni9,11-5-1951,F,Malignant neoplasm of cecum
+659,pegaria,7-28-1972,M,Other facial nerve disorders
+660,ilouwib,5-10-1968,F,Malignant hypertensive heart disease without heart failure
+661,kdankersleyic,6-19-1956,M,"Burn of unspecified degree of eye (with other parts of face, head, and neck)"
+662,mkimburyid,9-1-1961,M,Microglossia
+663,nglackenie,10-4-1962,M,"Subdural hemorrhage following injury with open intracranial wound, with no loss of consciousness"
+664,dgruszczakif,11-7-1986,M,Nontraffic accident involving motor-driven snow vehicle injuring driver of motor vehicle other than motorcycle
+665,sdeeksig,8-30-1989,F,Activities involving frisbee
+666,gshobbrookih,3-17-2003,F,Urethral discharge
+667,zmackayii,11-16-1970,M,Activity involving calisthenics
+668,hpetrushkevichij,4-2-2018,M,Railway accident involving derailment without antecedent collision injuring pedal cyclist
+669,bdunsfordik,10-19-1991,M,"Late effect of injury to blood vessel of head, neck, and extremities"
+670,kjakabil,9-10-2013,F,"Tuberculosis of other specified bone, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+671,bturleyim,8-10-2013,F,"Mantle cell lymphoma, lymph nodes of head, face, and neck"
+672,kmathissenin,8-17-1970,M,"Open wound of penis, complicated"
+673,gwebsdaleio,9-19-1999,F,Nonspecific abnormal results of other endocrine function study
+674,ehammerichip,2-23-1950,M,Benign neoplasm of tongue
+675,frixoniq,4-18-1961,F,"Other anomalies of larynx, trachea, and bronchus"
+676,gskillernir,8-28-2011,F,"Benign neoplasm of skin of upper limb, including shoulder"
+677,rhousbieis,9-9-2018,F,Herpes simplex with unspecified ophthalmic complication
+678,jfibbingsit,11-21-1956,F,Vulval varices
+679,thustleriu,5-1-1981,M,Other specified local infections of skin and subcutaneous tissue
+680,sflorentineiv,8-19-2004,F,Diabetic macular edema
+681,abadsworthiw,10-10-1976,M,"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified"
+682,hsiviterix,1-15-2014,M,Personal history of other drug therapy
+683,iberminghamiy,4-3-1977,F,Adult neglect (nutritional)
+684,vbunhilliz,7-5-1970,M,"Pressure ulcer, upper back"
+685,mrickertj0,8-28-1967,F,Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring unspecified person
+686,kquiggj1,4-29-1988,M,Peroxisomal disorders
+687,bfluryj2,12-28-1989,M,Breast engorgement in newborn
+688,hmellishj3,11-14-2016,M,"Gastric mucosal hypertrophy, with hemorrhage"
+689,abiertonj4,7-7-1980,F,Polyneuropathy in collagen vascular disease
+690,bbaudicj5,8-6-1984,M,Unspecified disorder of gallbladder
+691,wfassj6,6-4-1986,F,Unspecified disorder of stomach and duodenum
+692,srasorj7,3-5-2010,M,Anomalies of pancreas
+693,purwenj8,9-20-1991,F,"Chronic osteomyelitis, multiple sites"
+694,mwindlessj9,12-10-1951,M,Myiasis
+695,jcapstickja,8-28-2013,F,Other specified complications of labor and delivery affecting fetus or newborn
+696,dmandersjb,12-21-1952,F,"Cocaine dependence, unspecified"
+697,lsandercockjc,11-29-2019,F,Other sickle-cell disease without crisis
+698,tkrienkejd,12-4-2006,M,Salmonella osteomyelitis
+699,jtomeoje,11-1-1983,F,Other activity involving external motion
+700,pmackowlejf,11-13-2017,F,Exudative cyst of pars plana
+701,mloblejg,10-4-1952,M,"Osteoarthrosis, localized, primary, forearm"
+702,lsimysonjh,5-11-2010,M,Meningitis in sarcoidosis
+703,sskippji,5-26-1951,F,"Cerebellar or brain stem contusion with open intracranial wound, with brief [less than one hour] loss of consciousness"
+704,rtrilljj,9-5-1955,M,Presence of subdermal contraceptive implant
+705,ebarochjk,6-24-1991,F,"Postdysenteric arthropathy, multiple sites"
+706,bdiversjl,4-12-1962,M,Retained nonmagnetic metal fragments
+707,lskaifejm,6-2-1980,M,"Chronic or unspecified gastrojejunal ulcer, with hemorrhage, with obstruction"
+708,whuckjn,9-17-1997,F,"Pelvic hematoma, delivered with mention of postpartum complication"
+709,rambrosiojo,9-1-1996,F,"Gonorrhea of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+710,kcolliverjp,5-28-2018,M,"Ventral hernia, unspecified, with gangrene"
+711,bschulkinsjq,7-23-1980,M,Accident caused by controlled fire in private dwelling
+712,mketteridgejr,1-29-2020,M,Opisthorchiasis
+713,moleszczakjs,10-1-1995,M,Disorders of thyrocalcitonin secretion
+714,lbanaszewskijt,7-31-1962,F,Railway accident involving derailment without antecedent collision injuring passenger on railway
+715,llownsbroughju,12-20-2011,M,"Primary central nervous system lymphoma, spleen"
+716,mansettjv,9-21-1962,M,Machinery accident in water transport injuring unspecified person
+717,tdeferrarijw,4-30-2018,M,"Neurofibromatosis, type 2 [acoustic neurofibromatosis]"
+718,bingarfieldjx,6-14-1999,M,"Periostitis, without mention of osteomyelitis, ankle and foot"
+719,lsavinsjy,4-16-1960,M,Injury due to unspecified war operations but occurring after cessation of hostilities
+720,mwickesjz,2-22-2003,M,"Open fractures involving skull or face with other bones, without mention of intracranial injury, with moderate [1-24 hours] loss of consciousness"
+721,eaxonk0,12-6-1980,M,Endometriosis of fallopian tube
+722,gqusklayk1,10-24-1958,M,Other motor vehicle traffic accident involving collision with motor vehicle injuring occupant of streetcar
+723,ksoark2,6-20-1971,F,Personal history of other genital system and obstetric disorders
+724,epauntonk3,5-3-1978,F,"Manic affective disorder, recurrent episode, unspecified"
+725,bharvettk4,5-6-1957,F,"Lymphangioma, any site"
+726,lblairk5,3-8-2019,F,"Poisoning by keratolytics, keratoplastics, other hair treatment drugs and preparations"
+727,cbensteadk6,1-27-1995,F,Transfusion associated circulatory overload
+728,tstansallk7,12-5-1960,F,Unspecified vascular insufficiency of intestine
+729,drumblek8,2-12-1994,F,Special screening for osteoporosis
+730,jgeggusk9,7-11-1977,M,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+731,bwallsworthka,1-18-1984,F,Specified anomalies of nails
+732,reburnekb,12-30-1959,M,"Flatulence, eructation, and gas pain"
+733,btieskc,7-17-1957,F,Occlusion and stenosis of basilar artery without mention of cerebral infarction
+734,vburgwinkd,4-13-1974,M,Cerebral embolism without mention of cerebral infarction
+735,rpietzkerke,11-10-2017,M,Simple buphthalmos
+736,mcristeakf,9-13-2002,F,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+737,vcurekg,3-27-1958,M,"Osteoarthrosis, localized, secondary, upper arm"
+738,dgiblinkh,6-22-1991,M,"Closed fracture of vault of skull without mention of intracranial injury, with brief [less than one hour] loss of consciousness"
+739,splemingki,1-10-1964,F,Late effect of injury due to war operations
+740,rerikkj,3-13-2002,F,Temporal sclerosis
+741,mjoddinskk,2-20-2003,F,"Marginal zone lymphoma, intrapelvic lymph nodes"
+742,tjarvillekl,4-20-1971,M,Other colostomy and enterostomy complication
+743,rplayfootkm,4-14-1955,M,Injury to dorsal nerve root
+744,gthreadkellkn,7-18-1985,F,"Subdural hemorrhage following injury with open intracranial wound, with brief [less than one hour] loss of consciousness"
+745,shawko,10-16-1969,M,Other non-ABO incompatibility reaction
+746,mbyramkp,2-13-2006,M,Malignant neoplasm of other specified sites of stomach
+747,tdoltonkq,9-23-2004,F,Bed confinement status
+748,jcustkr,6-7-1950,M,Coronary atherosclerosis of native coronary artery of transplanted heart
+749,khurtadoks,8-8-1960,F,"Twin pregnancy with fetal loss and retention of one fetus, delivered, with or without mention of antepartum condition"
+750,mcargokt,9-13-1963,M,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+751,cberginku,3-17-1998,F,Injury to unspecified blood vessel of lower extremity
+752,ddarlisonkv,8-28-2016,F,"Multiple congenital anomalies, so described"
+753,bendkw,5-9-2015,F,Contusion of shoulder region
+754,edewdneykx,8-10-1992,F,Contact with and (suspected) exposure to other potentially hazardous substances
+755,ofeldbergky,9-9-1990,M,"Arthropathy, unspecified, forearm"
+756,averickkz,12-18-1975,F,"Unspecified infective arthritis, upper arm"
+757,kscadl0,10-22-2006,M,Normal delivery
+758,sgeldardl1,10-13-1958,M,Complication of other specified reattached body part
+759,ppoolel2,1-28-1953,F,Malignant pleural effusion
+760,jmyalll3,11-9-2019,F,"Other open skull fracture without mention of intracranial injury, with brief [less than one hour] loss of consciousness"
+761,nreaml4,2-17-1989,M,"Unspecified leukemia, in relapse"
+762,chubnerl5,9-6-2007,M,"Acute myocardial infarction of anterolateral wall, subsequent episode of care"
+763,klillegardl6,7-4-2013,F,Injury to multiple nerves in several parts
+764,rpurcerl7,3-7-2012,M,Absence of external ear
+765,vguyel8,5-12-1950,M,"Closed fracture of vault of skull with cerebral laceration and contusion, with no loss of consciousness"
+766,tbalshenl9,5-12-1985,M,"Acute venous embolism and thrombosis of upper extremity, unspecified"
+767,acosansla,11-5-1974,F,Meningitis in other bacterial diseases classified elsewhere
+768,msnowdenlb,1-14-1996,M,"Papyraceous fetus, delivered, with or without mention of antepartum condition"
+769,abourleylc,9-20-1990,M,"Open fracture of carpal bone, unspecified"
+770,ecordingleyld,12-6-2012,M,"Swelling, mass, or lump in head and neck"
+771,ntrevorle,11-22-1997,M,Status post administration of tPA (rtPA) in a different facility within the last 24 hours prior to admission to current facility
+772,jforstlf,8-12-2004,F,"Other specified miliary tuberculosis, bacteriological or histological examination unknown (at present)"
+773,emcindrewlg,2-11-1977,M,Other venomous arthropods causing poisoning and toxic reactions
+774,vephgravelh,9-4-1988,F,"Unspecified crystal arthropathy, forearm"
+775,olaingeli,3-8-2006,M,Open fracture of ilium
+776,lveltmannlj,9-18-1975,M,Unspecified protozoal intestinal disease
+777,epurdielk,4-28-2007,M,"Other venereal diseases due to chlamydia trachomatis, pharynx"
+778,dkleintll,12-2-2015,M,Calcium deposits in tendon and bursa
+779,hcubbitlm,6-8-2007,M,Splenomegaly
+780,bdoudln,6-17-1997,M,Open fracture of shaft of tibia alone
+781,lwolseleylo,9-22-1979,F,Microstomia
+782,jmarlowelp,12-7-2015,F,"Retroverted and incarcerated gravid uterus, antepartum condition or complication"
+783,kranyelllq,1-6-1998,F,"Traumatic amputation of thumb (complete)(partial), complicated"
+784,pcookneylr,6-10-1993,F,Closed fracture of subtrochanteric section of neck of femur
+785,hmcauslandls,9-11-2019,F,"Ménière's disease, unspecified"
+786,trolofflt,9-1-1979,F,Benign neoplasm of other and unspecified parts of mouth
+787,ccrawlu,8-10-1955,M,"Iron deficiency anemia, unspecified"
+788,akenningleylv,11-19-1983,F,"Counseling for marital and partner problems, unspecified"
+789,lkirkbrightlw,3-29-1985,M,"Secondary diabetes mellitus with ketoacidosis, not stated as uncontrolled, or unspecified"
+790,volyfflx,2-28-1985,F,"Unspecified malignant neoplasm of skin, site unspecified"
+791,mfabryly,12-6-2006,M,Dermatitis due to metals
+792,ostuchburylz,1-7-1993,F,"Malignant neoplasm of lip, unspecified, vermilion border"
+793,cturlm0,10-19-1965,F,Umbilical hemorrhage after birth
+794,uawcockm1,6-10-1980,M,Closed fracture of other bone of wrist
+795,adreinanm2,9-13-1967,M,"Obesity, unspecified"
+796,elademannm3,12-13-1974,M,Secondary syphilitic periostitis
+797,raynscombem4,10-8-1956,M,"Other and unspecified intracranial hemorrhage following injury with open intracranial wound, with no loss of consciousness"
+798,amcgarritym5,10-26-1976,M,"Torsion of testis, unspecified"
+799,wbraunfeldm6,10-12-2012,F,"Prostatitis, unspecified"
+800,bgayterm7,12-8-1973,F,"Deep necrosis of underlying tissues [deep third degree] with loss of a body part, of upper arm"
+801,lbilboroughm8,5-15-2002,F,"Twin pregnancy with fetal loss and retention of one fetus, antepartum condition or complication"
+802,rbrimmingm9,8-19-1980,F,"Idiopathic interstitial pneumonia, not otherwise specified"
+803,dbrinema,7-8-1961,M,"Other complications due to other cardiac device, implant, and graft"
+804,jabdeemb,8-20-2011,F,Family history of allergic disorders
+805,avickersmc,7-26-1953,M,"Acute peptic ulcer of unspecified site without mention of hemorrhage and perforation, without mention of obstruction"
+806,gandriolimd,7-6-1973,F,"Hodgkin's disease, mixed cellularity, intra-abdominal lymph nodes"
+807,fdrakeme,12-10-1953,M,"Chronic gastrojejunal ulcer without mention of hemorrhage or perforation, without mention of obstruction"
+808,nbusselmf,3-15-1957,M,Activities involving drum and other percussion instrument playing
+809,jwilbrahammg,1-3-1961,F,Phlebitis and thrombophlebitis of intracranial venous sinuses
+810,crichfieldmh,10-16-1989,F,"Tuberculosis of unspecified bones and joints, bacteriological or histological examination unknown (at present)"
+811,mbedhammi,1-22-1992,F,Late effect of fracture of skull and face bones
+812,rstandbrookemj,1-15-1991,M,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified"
+813,gpoulglaismk,5-13-1989,M,Babesiosis
+814,hhullinsml,10-15-2016,F,Tetanus
+815,abrotheridgemm,6-6-2011,M,Hepatitis in other infectious diseases classified elsewhere
+816,achettermn,7-26-1955,M,"Arthropathy associated with helminthiasis, forearm"
+817,agarshoremo,4-7-1997,M,Closed fracture of metatarsal bone(s)
+818,rlingfootmp,7-16-1958,F,"Grand multiparity, antepartum condition or complication"
+819,gdefewmq,1-27-1991,M,"Gingival recession, unspecified"
+820,jriplymr,1-27-2010,F,"Villonodular synovitis, other specified sites"
+821,rgoodnowms,5-1-1974,F,Asphyxia
+822,nstocktonmt,9-24-1980,F,"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled"
+823,kvedenyakinmu,12-7-1972,F,"Spontaneous abortion, complicated by genital tract and pelvic infection, incomplete"
+824,kaloigimv,7-31-1951,F,Malignant neoplasm of occipital lobe
+825,wgertymw,10-21-1952,M,Diaphragmatic hernia with obstruction
+826,odymockemx,1-11-2013,F,Abnormality in fetal heart rate or rhythm before the onset of labor
+827,hfrancescocciomy,6-30-1982,F,Unspecified reduction deformity of upper limb
+828,spovelemz,8-8-1985,F,Family history of leukemia
+829,cdrillingcourtn0,5-17-2017,M,Motor vehicle traffic accident of unspecified nature injuring other specified person
+830,lkitchinghamn1,1-13-1989,F,Takotsubo syndrome
+831,ahawkesn2,12-9-1975,M,Closed fracture of C1-C4 level with unspecified spinal cord injury
+832,hjagielskin3,10-6-1993,F,"Closed fractures involving skull or face with other bones, with other and unspecified intracranial hemorrhage, with moderate [1-24 hours] loss of consciousness"
+833,abeern4,3-26-2010,M,Recurrent pterygium
+834,bitzkinn5,7-4-1973,F,"Sleep related movement disorder, unspecified"
+835,gmousdalln6,1-25-1987,M,Other motor vehicle nontraffic accident while boarding and alighting injuring occupant of streetcar
+836,bletchern7,1-2-1953,F,Influenza with other respiratory manifestations
+837,smebesn8,11-6-1951,M,"Fall in, on, or from railway train injuring passenger on railway"
+838,kplessingn9,4-27-1982,F,"Early congenital syphilis, latent"
+839,sduryna,2-17-2006,M,"Infertility, female, associated with anovulation"
+840,idaversnb,11-5-1968,M,Regular astigmatism
+841,lingmannc,7-18-1973,F,Late effect of fracture of spine and trunk without mention of spinal cord lesion
+842,lbradtkend,8-21-1995,M,Functional diarrhea
+843,nandratne,10-4-1965,M,Poisoning by sympatholytics [antiadrenergics]
+844,dgabbitasnf,9-15-1983,F,"Paranoid type schizophrenia, unspecified"
+845,dflightng,11-25-1975,F,"Short cord complicating labor and delivery, antepartum condition or complication"
+846,aivashnikovnh,9-30-1959,M,Breast engorgement in newborn
+847,dlysaghtni,8-30-1998,M,Screening examination for yaws
+848,gnicenj,7-6-2003,M,"Primary tuberculous infection, tubercle bacilli found (in sputum) by microscopy"
+849,cpoelnk,7-9-2006,M,"Low birth weight status, less than 500 grams"
+850,dvankovnl,3-30-2000,M,Unspecified psychosis
+851,bmacguigannm,10-16-1971,M,Atheroembolism of upper extremity
+852,coretnn,3-17-1992,F,"Tuberculous bronchiectasis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+853,mkieransno,3-6-1965,F,Special screening for osteoporosis
+854,beggertonnp,7-1-1950,F,Disturbances in tooth eruption
+855,gbarnsdalenq,2-13-1977,M,"Other and unspecified superficial injury of other, multiple, and unspecified sites, infected"
+856,mgarahannr,5-10-1975,M,Aphasia
+857,tworgenns,9-16-2012,F,"Personal history of malignant neoplasm of respiratory organ, unspecified"
+858,jgoldsnt,12-26-1999,M,Need for prophylactic vaccination and inoculation against other viral diseases
+859,dworleynu,8-31-1979,M,Railway accident of unspecified nature injuring pedestrian
+860,emcauliffenv,6-15-1971,F,"Excessive attrition, extending into pulp"
+861,woutibridgenw,9-9-1950,F,Lack of physical exercise
+862,rjahnsnx,1-26-1983,M,Red cell aplasia (acquired)(adult)(with thymoma)
+863,agodierny,5-4-2018,F,"Open fracture of base of skull with cerebral laceration and contusion, with brief [less than one hour] loss of consciousness"
+864,gdonalsonnz,4-26-1984,M,"Unspecified abnormality of labor, antepartum condition or complication"
+865,ckirkupo0,12-31-1999,M,Unspecified thrombosed hemorrhoids
+866,sperellio1,11-24-2018,F,"Diabetes with other coma, type II or unspecified type, not stated as uncontrolled"
+867,lfrymano2,1-22-1984,F,"Generalized convulsive epilepsy, without mention of intractable epilepsy"
+868,fgligorijevico3,10-2-1985,F,"Tuberculoma of spinal cord, tubercle bacilli found (in sputum) by microscopy"
+869,saseyo4,5-9-1996,M,"Effusion of joint, hand"
+870,qhayfordo5,3-31-1956,F,"Edema or excessive weight gain in pregnancy, without mention of hypertension, unspecified as to episode of care or not applicable"
+871,ytrosdallo6,8-30-1959,M,"Infertility, female, of tubal origin"
+872,thofo7,6-28-1969,M,Other and unspecified respiratory drugs causing adverse effects in therapeutic use
+873,hlighteno8,11-10-1964,F,"Mucositis (ulcerative) of cervix, vagina, and vulva"
+874,caupolo9,5-15-1986,M,Closed dislocation of acromioclavicular (joint)
+875,dhenrionoa,3-14-1958,M,29-30 completed weeks of gestation
+876,rlotsob,8-10-1960,F,Toxic effect of strychnine and salts
+877,sallinghamoc,6-18-1950,M,Bladder replaced by other means
+878,akmieciakod,11-8-1990,F,Fourth or trochlear nerve palsy
+879,jgreethamoe,9-29-2007,F,Nonspecific abnormal findings in stool contents
+880,mmeasomof,5-8-1978,F,Poisoning by heroin
+881,aruppertog,10-26-2000,F,"Closed dislocation of hip, unspecified site"
+882,kkempoh,3-28-1957,F,Healthy person accompanying sick person
+883,adinesenoi,9-5-1960,M,"Fetal-maternal hemorrhage, delivered, with or without mention of antepartum condition"
+884,lspaiceoj,6-28-1969,M,"Chorioretinitis, unspecified"
+885,rkissok,7-22-2007,M,Other motor vehicle traffic accident involving collision on the highway injuring unspecified person
+886,gwhealol,3-17-2015,M,"Excessive attrition, generalized"
+887,fcastellanosom,7-23-1962,F,"Neoplasm of uncertain behavior of trachea, bronchus, and lung"
+888,btwidleon,1-18-1962,F,Pneumonia due to SARS-associated coronavirus
+889,gberwickoo,2-6-1997,F,Railway accident of unspecified nature injuring pedestrian
+890,anicolop,4-13-2015,F,Poisoning by other and unspecified drugs acting on muscles
+891,fglazyeroq,4-23-1979,M,Encounters for unspecified administrative purpose
+892,eredor,1-10-1991,M,"Transient arthropathy, shoulder region"
+893,rseageros,2-6-2019,F,Stevens-Johnson syndrome-toxic epidermal necrolysis overlap syndrome
+894,lneggriniot,7-8-1960,M,Macrocheilia
+895,mpavlikou,4-21-1964,F,Osseous obstruction of Eustachian tube
+896,scarnierov,8-6-2015,M,"Tuberculosis of lung with cavitation, bacteriological or histological examination not done"
+897,aodunniomow,12-8-1955,F,"Motor vehicle traffic accident due to loss of control, without collision on the highway, injuring motorcyclist"
+898,jpregalox,12-9-1968,M,"Genital tract-skin fistula, female"
+899,rpepinoy,12-19-1986,F,"Accident due to privation, unqualified"
+900,kscotchmooroz,7-19-2008,F,Allergic gastroenteritis and colitis
+901,zheitonp0,8-22-1995,M,Uterine prolapse without mention of vaginal wall prolapse
+902,ctucknottp1,4-8-1979,M,Myopia
+903,htamblynp2,7-15-1990,F,"Backache, unspecified"
+904,csutherbyp3,6-21-2008,M,Exceptionally large baby
+905,mjeanp4,10-31-1970,F,Papanicolaou smear of vagina with high grade squamous intraepithelial lesion (HGSIL)
+906,bmaccorkellp5,6-4-2009,F,"Breech or other malpresentation successfully converted to cephalic presentation, antepartum condition or complication"
+907,awildep6,3-29-2012,F,"Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part, of palm of hand"
+908,dryburnp7,5-14-1957,M,Activity involving other arts and handcrafts
+909,plarchierep8,9-5-2007,F,"Quadruplet pregnancy, unspecified as to episode of care or not applicable"
+910,hbrump9,12-24-2006,M,Accidental poisoning by fusel oil
+911,mtreweekpa,9-23-1963,F,Accident to watercraft causing other injury to other specified person
+912,jkamienpb,12-31-1983,F,Injury to abducens nerve
+913,abundeypc,3-8-1970,M,Other cardiorespiratory problems
+914,cjanaszewskipd,5-6-1972,M,"Other closed skull fracture with intracranial injury of other and unspecified nature, with brief [less than one hour] loss of consciousness"
+915,agoaterpe,4-18-1987,F,"Acute myeloid leukemia, in remission"
+916,emagrannellpf,2-15-2015,M,Abnormal reflex
+917,rmallonpg,11-20-1990,M,Cataract associated with radiation and other physical influences
+918,lmangonph,2-3-1993,F,Open fracture of midcervical section of neck of femur
+919,stroypi,3-29-1952,M,"Unspecified infective arthritis, shoulder region"
+920,isailespj,1-11-1975,M,Closed fracture of multiple sites of metacarpus
+921,bdrexelpk,9-19-2015,M,"Tuberculous peritonitis, unspecified"
+922,wblonfieldpl,6-4-2011,F,"Pinta, unspecified"
+923,mskevingtonpm,7-18-1951,M,Carrier or suspected carrier of typhoid
+924,mdilaweypn,8-17-2013,F,"Benign neoplasm of skin of upper limb, including shoulder"
+925,rcloptonpo,8-25-1962,F,Bite of other animal except arthropod
+926,dmarcinkowskipp,4-12-1972,F,Poisoning by diphtheria vaccine
+927,rbuxseypq,2-27-1962,F,Personal history of thrombophlebitis
+928,dsargepr,10-30-2016,F,Other specified infectious and parasitic diseases
+929,rsarsonps,4-9-2011,M,Instantaneous death
+930,elehouxpt,5-18-1952,F,Epicranial subaponeurotic hemorrhage (massive)
+931,amorradpu,1-11-2014,F,Cervicitis and endocervicitis
+932,dhabbalpv,12-29-1954,M,Acute graft-versus-host disease
+933,vmehmetpw,1-24-1954,M,North Asian tick fever
+934,ldefontpx,5-25-1988,M,Poisoning by caffeine
+935,hpaulitschkepy,1-6-1990,F,Injury to portal vein
+936,sdefrainepz,10-22-2011,F,"Second-degree perineal laceration, postpartum condition or complication"
+937,mbatchanq0,4-30-2018,M,Other activity involving other sports and athletes played as a team or group
+938,bpottleq1,6-20-2001,F,Ulcerative (chronic) proctitis
+939,pflaxmanq2,6-19-2015,M,"Traumatic arthropathy, other specified sites"
+940,jthaxterq3,5-28-1988,M,Unspecified disorder of urethra and urinary tract
+941,cjollieq4,6-13-2008,M,Fitting and adjustment of other cardiac device
+942,djoselovitchq5,11-24-2006,F,Unspecified weeks of gestation
+943,csallarieq6,7-12-2006,M,"Failed forceps or vacuum extractor, unspecified, unspecified as to episode of care or not applicable"
+944,kmcgrieleq7,5-3-1977,F,Juvenile osteochondrosis of upper extremity
+945,charnottq8,8-12-1978,M,"Open fractures involving skull or face with other bones, with intracranial injury of other and unspecified nature, with concussion, unspecified"
+946,skittredgeq9,10-4-2004,M,"Primary central nervous system lymphoma, spleen"
+947,groloffqa,4-9-1978,M,"Foreign body in digestive system, unspecified"
+948,vgoughqb,9-14-1993,F,Heartburn
+949,rmatzlqc,1-1-2012,F,"Spontaneous abortion, with other specified complications, incomplete"
+950,taddisqd,11-1-2014,F,"Abrasion or friction burn of other, multiple, and unspecified sites, without mention of infection"
+951,cadelmanqe,1-23-1969,M,Dementia in conditions classified elsewhere with behavioral disturbance
+952,adunckleyqf,1-21-1992,F,"Infertility, female, of cervical or vaginal origin"
+953,hsomerlieqg,7-6-2003,F,Accidental poisoning by other specified corrosives and caustics not elsewhere classified
+954,mwoollcottqh,1-15-2000,F,"Full-thickness skin loss [third degree, not otherwise specified] of neck"
+955,sshortinqi,3-27-2015,F,Eosinophilic esophagitis
+956,ncapinettiqj,5-4-1950,F,"Sedative, hypnotic or anxiolytic dependence, episodic"
+957,svaloisqk,4-17-1993,F,Need for prophylactic vaccination and inoculation against other viral diseases
+958,olandql,6-18-1989,F,"Other specified types of schizophrenia, in remission"
+959,wcahnqm,8-27-1961,F,Mechanical failure of instrument or apparatus during unspecified procedure
+960,jdevinnqn,7-3-1987,F,"First-degree perineal laceration, unspecified as to episode of care or not applicable"
+961,kbalaamqo,11-26-1980,F,"Deep phlebothrombosis, postpartum, postpartum condition or complication"
+962,rretchlessqp,7-21-2010,F,Other disorders of calcium metabolism
+963,mdiceyqq,2-28-1993,F,Hypovolemia
+964,adartqr,12-20-1964,M,"Pathological dislocation of joint, upper arm"
+965,ggooderidgeqs,4-4-1967,M,Open fracture of larynx and trachea
+966,mattowqt,11-16-1993,M,"Unstable lie, antepartum condition or complication"
+967,hstickensqu,2-2-1983,F,"Closed fracture of base of skull without mention of intra cranial injury, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level"
+968,rworsleyqv,12-22-1969,M,Other sickle-cell disease without crisis
+969,emcbreartyqw,8-22-2006,F,Exfoliation due to erythematous condition involving less than 10 percent of body surface
+970,whawkridgeqx,5-14-1952,F,Foreign body in penis
+971,ricomqy,3-22-1999,F,Open fracture of distal end of ulna (alone)
+972,vboylandqz,7-25-2012,M,"Spontaneous abortion, complicated by renal failure, complete"
+973,ameacer0,8-5-1972,F,"Quadruplet gestation, with two or more monochorionic fetuses"
+974,rfrazerr1,9-7-1994,F,"Retained portions of placenta or membranes, without hemorrhage, delivered, with mention of postpartum complication"
+975,sbeertr2,1-6-1984,M,Malignant neoplasm of jejunum
+976,sprimmerr3,4-9-1950,F,Neoplasm of uncertain behavior of pituitary gland and craniopharyngeal duct
+977,geagarr4,11-29-1951,F,"Other and unspecified fall in water transport injuring occupant of small boat, powered"
+978,hipplettr5,1-25-1952,F,"Railway accident involving explosion, fire, or burning injuring other specified person"
+979,ohannentr6,11-30-1973,F,"Illegally induced abortion, without mention of complication, incomplete"
+980,pcornewallr7,12-31-1999,M,Other disorders of calcium metabolism
+981,lmerigotr8,1-19-1951,F,"Multiple and unspecified open wound of lower limb, with tendon involvement"
+982,thaddintonr9,12-8-1983,M,"Contusion of multiple sites, not elsewhere classified"
+983,hodugganra,3-14-2009,M,Encounter for Papanicolaou cervical smear to confirm findings of recent normal smear following initial abnormal smear
+984,aprofitrb,11-24-2004,F,Basal cell carcinoma of scalp and skin of neck
+985,ablakemanrc,6-20-1982,F,"Primary tuberculous infection, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+986,mnormantrd,3-18-1976,F,"Damage to pelvic joints and ligaments, delivered, with or without mention of antepartum condition"
+987,ghatchettere,3-15-1983,F,Other juvenile osteochondrosis
+988,spattyrf,2-5-1997,F,Other specified anomalies of eye
+989,cfulksrg,11-30-2018,M,"Aftercare following surgery of the circulatory system, NEC"
+990,rjoslowrh,10-7-1961,M,Benign neoplasm of tonsil
+991,ceddollsri,10-14-1998,M,Screening for nephropathy
+992,edrewsrj,11-23-1955,M,External hemorrhoids without mention of complication
+993,estlouisrk,11-26-2005,F,Unspecified retinal detachment
+994,osaulrl,8-23-1971,F,"Tuberculosis of other specified bone, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+995,ckasperskirm,5-23-1951,M,Chronic Eustachian salpingitis
+996,rrichelrn,11-9-1963,M,"Intracranial injury of other and unspecified nature without mention of open intracranial wound, with prolonged [more than 24 hours] loss of consciousness without return to pre-existing conscious level"
+997,sscriverro,9-16-1980,F,"Malignant neoplasm of pleura, unspecified"
+998,wdenizetrp,12-7-1974,M,"Subarachnoid hemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration"
+999,sbogeysrq,11-4-2004,M,Mechanical complication due to urethral (indwelling) catheter
+1000,mwacklyrr,3-31-1960,F,"Malignant neoplasm of accessory sinus, unspecified"
