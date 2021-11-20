@@ -6,7 +6,7 @@ import HomePage from './home_page';
 
 const BASE_URL = 'http://localhost:5000/';
 
-export default class MedSignUp extends React.Component {
+export default class CustomerSignUp extends React.Component {
 	constructor(props) {
 		super(props);
 		this.state = {

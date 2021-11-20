@@ -4,6 +4,7 @@ import axios from 'axios';
 import LoginPage from './login_page';
 import ChangeUser from './change_user';
 import ChangeCustomer from './change_customer';
+import CustomerHome from './customer_home';
 
 const BASE_URL = 'http://localhost:5000/';
 
@@ -20,6 +21,7 @@ export default class CustomerProfile extends React.Component {
     this.handleChangeUser = this.handleChangeUser.bind(this);
     this.handleChangeCustomer = this.handleChangeCustomer.bind(this);
     this.handleDelete = this.handleDelete.bind(this);
+		this.handleGoBack = this.handleGoBack.bind(this);
   }
 
   handleChangeUser() {
@@ -28,6 +30,10 @@ export default class CustomerProfile extends React.Component {
 
 	handleChangeCustomer() {
 		this.setState({ s: 2 });
+	}
+
+	handleGoBack() {
+		this.setState({ s: 4 });
 	}
 
   handleDelete() {
@@ -74,6 +80,7 @@ export default class CustomerProfile extends React.Component {
             <br />
             <div>
             <button className="button" onClick={this.handleDelete} id = "button2"> Delete User </button>
+						<button className="button" onClick={this.handleGoBack} id = "button3"> Go Home </button>
             </div>
 					</header>
 				</div>
@@ -90,12 +97,18 @@ export default class CustomerProfile extends React.Component {
           <ChangeCustomer state = {this.state} />
         </div>
       );
-    } else {
+    } else if (this.state.s === 3) {
       return (
   			<div id='App-header'>
   				<LoginPage state={{}} />
   			</div>
   		)
-    }
+    } else {
+			return (
+      <div className="App">
+        <CustomerHome state={this.state}/>
+      </div>
+    );
+		}
 	}
 }
