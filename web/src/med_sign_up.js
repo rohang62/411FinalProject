@@ -34,68 +34,12 @@ export default class MedSignUp extends React.Component {
   }
 
 	handleSubmit() {
-    let url = `${BASE_URL}api/select` + '?query=' + '\'SELECT * FROM User WHERE Username = "' + this.state.data.Username + '"\'';
-    axios.get(url,
+		let url = `${BASE_URL}api/procedure?type=addProvider`
+    axios.post(url, this.state.data,
 			{ headers: { 'Access-Control-Allow-Origin': '*', } })
 			.then(res => {
-				const data = res.data;
-				if (data === null || data['data'].length === 0) {
-          let url = `${BASE_URL}api/post?table=User`
-          let user_data = {};
-          Object.assign(user_data, this.state.data);
-          delete user_data['BusinessName']
-          delete user_data['PhoneNumber']
-          axios.post(url, user_data, {
-  				headers:
-  				{
-  					'Access-Control-Allow-Origin': '*',
-  					'Content-Type': 'application/json'
-  				}
-  			})
-  				.then(res => {
-            let url = `${BASE_URL}api/select` + '?query=' + '\'SELECT MAX(ProviderID) AS ProviderID FROM MedicalProvider\'';
-            axios.get(url,
-        			{ headers: { 'Access-Control-Allow-Origin': '*', } })
-        			.then(res => {
-        				const data = res.data;
-        				let newProviderId = data['data'][0]['ProviderID'] + 1;
-                let provider_data = {}
-                Object.assign(provider_data, this.state.data);
-                provider_data['ProviderID'] = newProviderId;
-                delete provider_data['Password']
-                delete provider_data['First_Name']
-                delete provider_data['Last_Name']
-                delete provider_data['Email']
-                delete provider_data['Address']
-                let url = `${BASE_URL}api/post?table=MedicalProvider`
-                axios.post(url, provider_data, {
-        				headers:
-        					{ 'Access-Control-Allow-Origin': '*' }
-        			})
-        				.then(res => {
-        					const data = res.data;
-        					this.setState({ error: data, requestDone: 1 });
-        				}).catch((error) => {
-        					this.setState({
-        						error: error.response.data,
-        						requestDone: 2
-        					});
-        				});
-                }).catch((error) => {
-        				this.setState({
-        					error: error.response.data.Error,
-        					requestDone: 2
-        				});
-        			});
-  				}).catch((error) => {
-  					this.setState({
-  						error: error.response.data,
-  						requestDone: 2
-  					});
-  				});
-        } else {
-          this.setState({ requestDone: 2 });
-        }
+						let data = res['data']
+        		this.setState({ error: data, requestDone: 1 });
 			}).catch((error) => {
 				this.setState({
 					error: error.response.data.Error,

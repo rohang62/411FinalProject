@@ -58,9 +58,12 @@ def select_data(query, con, cursor):
 
 def execute_sql_command(db_cursor, db_connection, query):
     try:
+        print("hi", query)
         db_cursor.execute(query)
         db_connection.commit()
         return True
+    except pymysql.err.OperationalError:
+        return False
     except mysql.connector.errors.ProgrammingError:
         return False
 
@@ -86,6 +89,29 @@ def create_update_query(table_name, data, k, id):
 
     query = query[ : -2]
     query += " WHERE " + k + " = \'" + id + "\'"
+    return query
+
+def create_procedure_query(type, data):
+    query = "CALL " + type + "("
+    for key, value in data.items():
+        if isinstance(value, list):
+            for i, val in enumerate(value):
+                value[i] = val.replace(',', ' -')
+            value = str(value)
+            value = value.replace('[', '')
+            value = value.replace(']', '')
+            value = value.replace(',', ';')
+            value = value.replace('\'', '')
+            value = value.replace('\"', '')
+            query += '\'' + value + '\'' + ", "
+        elif isinstance(value, str):
+            value = value.replace('\'', '\'\'')
+            query += '\'' + value + '\'' + ", "
+        else:
+            query += str(value) + ", "
+
+    query = query[ : -2]
+    query += ");"
     return query
 
 def convert_dict_to_query(table_name, values_dict):

@@ -35,69 +35,12 @@ export default class CustomerSignUp extends React.Component {
   }
 
 	handleSubmit() {
-    let url = `${BASE_URL}api/select` + '?query=' + '\'SELECT * FROM User WHERE Username = "' + this.state.data.Username + '"\'';
-    axios.get(url,
+    let url = `${BASE_URL}api/procedure?type=addCustomer`
+    axios.post(url, this.state.data,
 			{ headers: { 'Access-Control-Allow-Origin': '*', } })
 			.then(res => {
-				const data = res.data;
-				if (data === null || data['data'].length === 0) {
-          let url = `${BASE_URL}api/post?table=User`
-          let user_data = {};
-          Object.assign(user_data, this.state.data);
-          delete user_data['Birthday']
-          delete user_data['SEX']
-					delete user_data['Medical_History']
-          axios.post(url, user_data, {
-  				headers:
-  				{
-  					'Access-Control-Allow-Origin': '*',
-  					'Content-Type': 'application/json'
-  				}
-  			})
-  				.then(res => {
-            let url = `${BASE_URL}api/select` + '?query=' + '\'SELECT MAX(CustomerID) as CustomerID FROM Customer\'';
-            axios.get(url,
-        			{ headers: { 'Access-Control-Allow-Origin': '*', } })
-        			.then(res => {
-        				const data = res.data;
-        				let newCustomerID = data['data'][0]['CustomerID'] + 1;
-                let customer_data = {}
-                Object.assign(customer_data, this.state.data);
-                customer_data['CustomerID'] = newCustomerID;
-                delete customer_data['Password']
-                delete customer_data['First_Name']
-                delete customer_data['Last_Name']
-                delete customer_data['Email']
-                delete customer_data['Address']
-                let url = `${BASE_URL}api/post?table=Customer`
-                axios.post(url, customer_data, {
-        				headers:
-        					{ 'Access-Control-Allow-Origin': '*' }
-        			})
-        				.then(res => {
-        					const data = res.data;
-        					this.setState({ error: data, requestDone: 1 });
-        				}).catch((error) => {
-        					this.setState({
-        						error: error.response.data,
-        						requestDone: 2
-        					});
-        				});
-                }).catch((error) => {
-        				this.setState({
-        					error: error.response.data.Error,
-        					requestDone: 2
-        				});
-        			});
-  				}).catch((error) => {
-  					this.setState({
-  						error: error.response.data,
-  						requestDone: 2
-  					});
-  				});
-        } else {
-          this.setState({ requestDone: 2 });
-        }
+						let data = res['data']
+        		this.setState({ error: data, requestDone: 1 });
 			}).catch((error) => {
 				this.setState({
 					error: error.response.data.Error,
@@ -117,7 +60,7 @@ export default class CustomerSignUp extends React.Component {
 			return (
 	          <div className="App">
 	          <header className="App-header">
-	            <h2>Sign Up As a Medical Provider</h2>
+	            <h2>Sign Up As a Customer</h2>
 	            <img src={logo} className="App-logo" alt="logo" />
 	            <div>
 	              <div>
@@ -184,7 +127,7 @@ export default class CustomerSignUp extends React.Component {
 			return (
 						<div className="App">
 						<header className="App-header">
-							<h2>Sign Up As a Medical Provider</h2>
+							<h2>Sign Up As a Customer</h2>
 							<img src={logo} className="App-logo" alt="logo" />
 							<div>
 								<div>

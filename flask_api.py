@@ -9,7 +9,8 @@ from flask_cors import CORS
 
 from dotenv import load_dotenv
 from flask import request, jsonify
-from database_manager import connect_to_db, insert_into_table, select_data, execute_sql_command, convert_dict_to_query, create_update_query
+from database_manager import connect_to_db, insert_into_table, select_data, \
+execute_sql_command, convert_dict_to_query, create_update_query, create_procedure_query
 
 app = flask.Flask(__name__)
 cors = CORS(app)
@@ -94,6 +95,20 @@ def api_delete_data():
     if not failed:
         return "Successfully deleted entry", 200
     return "Failed to delete entry", 400
+
+@app.route('/api/procedure', methods=['POST'])
+def api_call_procedure():
+    type = request.args['type']
+    data = request.data.decode("utf-8").replace("\'", "\"")
+    data = json.loads(data)
+    query = create_procedure_query(type, data)
+    if execute_sql_command(cursor, con, query):
+        failed = False
+    else:
+        failed = True
+    if not failed:
+        return "Successfully added new User", 200
+    return "Username already exists", 400
 
 @app.errorhandler(404)
 def page_does_not_exist(error):

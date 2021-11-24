@@ -9,7 +9,6 @@ load_dotenv()
 username = os.getenv('username')
 passwd = os.getenv('passwd')
 con, cursor = dm.connect_to_db("localhost", username, passwd, "cs411")
-
 # Create User table
 # dm.delete_table("User", con, cursor)
 # dm.create_table("User(Username VARCHAR(255) NOT NULL, Password VARCHAR(255) NOT NULL, First_Name VARCHAR(255) NOT NULL, Last_Name VARCHAR(255) NOT NULL, Email VARCHAR(255) NOT NULL, Address VARCHAR(255), PRIMARY KEY (Username))",
